@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+        <legend>Top 10 vaccinated states</legend>
+        <form action="http://localhost:5000/top10" method="POST">
+            Fetch Report 
+            <button type="submit"> Submit</button>
+        </form>
+    </fieldset>
+    <br><br>
+    <fieldset>
+        <legend>Get state report</legend>
+        <form action="http://localhost:5000/monthlyReport" method="post">
+            <input type="text" name="State" id="State" placeholder="State">
+            <button type="submit">Submit</button>
+        </form>
+    </fieldset>
+    <br><br>
+    <fieldset>
+        <legend>Top 10 vaccinated districts of state</legend>
+        <form action="http://localhost:5000/topDistricts" method="post">
+            <input type="text" name="name" id="name" placeholder="State">
+            <button type="submit">Submit</button>
+        </form>
+    </fieldset>
+</body>
+</html>

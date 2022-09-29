@@ -1,0 +1,5602 @@
+[
+ {
+   "State": "State Unassigned",
+   "District": "Unassigned",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 193
+ },
+ {
+   "State": "Andaman and Nicobar Islands",
+   "District": "Nicobars",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 425
+ },
+ {
+   "State": "Andaman and Nicobar Islands",
+   "District": "North and Middle Andaman",
+   "Infected": 1,
+   "Recovered": 1,
+   "Vaccinated": 206
+ },
+ {
+   "State": "Andaman and Nicobar Islands",
+   "District": "South Andaman",
+   "Infected": 51,
+   "Recovered": 32,
+   "Vaccinated": 421
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Foreign Evacuees",
+   "Infected": 434,
+   "Recovered": 434,
+   "Vaccinated": 449
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Anantapur",
+   "Infected": 21173,
+   "Recovered": 14263,
+   "Vaccinated": 75
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Chittoor",
+   "Infected": 14306,
+   "Recovered": 7948,
+   "Vaccinated": 76
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "East Godavari",
+   "Infected": 27580,
+   "Recovered": 14792,
+   "Vaccinated": 468
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Guntur",
+   "Infected": 19419,
+   "Recovered": 12007,
+   "Vaccinated": 192
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Krishna",
+   "Infected": 9042,
+   "Recovered": 5832,
+   "Vaccinated": 120
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Kurnool",
+   "Infected": 23348,
+   "Recovered": 13314,
+   "Vaccinated": 189
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Other State",
+   "Infected": 2461,
+   "Recovered": 2461,
+   "Vaccinated": 391
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Prakasam",
+   "Infected": 7256,
+   "Recovered": 4324,
+   "Vaccinated": 54
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "S.P.S. Nellore",
+   "Infected": 10705,
+   "Recovered": 5263,
+   "Vaccinated": 451
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Srikakulam",
+   "Infected": 9636,
+   "Recovered": 5235,
+   "Vaccinated": 208
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Visakhapatnam",
+   "Infected": 16682,
+   "Recovered": 6940,
+   "Vaccinated": 213
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Vizianagaram",
+   "Infected": 7468,
+   "Recovered": 2757,
+   "Vaccinated": 354
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "West Godavari",
+   "Infected": 15786,
+   "Recovered": 11716,
+   "Vaccinated": 355
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Y.S.R. Kadapa",
+   "Infected": 11493,
+   "Recovered": 5584,
+   "Vaccinated": 228
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Anjaw",
+   "Infected": 4,
+   "Recovered": 4,
+   "Vaccinated": 374
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Changlang",
+   "Infected": 269,
+   "Recovered": 122,
+   "Vaccinated": 273
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "East Kameng",
+   "Infected": 57,
+   "Recovered": 18,
+   "Vaccinated": 498
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "East Siang",
+   "Infected": 114,
+   "Recovered": 69,
+   "Vaccinated": 449
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Kamle",
+   "Infected": 1,
+   "Recovered": 1,
+   "Vaccinated": 453
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Kra Daadi",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 401
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Kurung Kumey",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 147
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lepa Rada",
+   "Infected": 13,
+   "Recovered": 11,
+   "Vaccinated": 99
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lohit",
+   "Infected": 55,
+   "Recovered": 17,
+   "Vaccinated": 133
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Longding",
+   "Infected": 14,
+   "Recovered": 8,
+   "Vaccinated": 201
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lower Dibang Valley",
+   "Infected": 22,
+   "Recovered": 16,
+   "Vaccinated": 145
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lower Siang",
+   "Infected": 40,
+   "Recovered": 17,
+   "Vaccinated": 120
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Lower Subansiri",
+   "Infected": 39,
+   "Recovered": 26,
+   "Vaccinated": 442
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Namsai",
+   "Infected": 160,
+   "Recovered": 56,
+   "Vaccinated": 170
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Pakke Kessang",
+   "Infected": 1,
+   "Recovered": 1,
+   "Vaccinated": 286
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Papum Pare",
+   "Infected": 910,
+   "Recovered": 750,
+   "Vaccinated": 109
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Shi Yomi",
+   "Infected": 4,
+   "Recovered": 0,
+   "Vaccinated": 146
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Siang",
+   "Infected": 3,
+   "Recovered": 3,
+   "Vaccinated": 135
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Tawang",
+   "Infected": 50,
+   "Recovered": 26,
+   "Vaccinated": 277
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Tirap",
+   "Infected": 63,
+   "Recovered": 30,
+   "Vaccinated": 417
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Upper Dibang Valley",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 50
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Upper Siang",
+   "Infected": 28,
+   "Recovered": 20,
+   "Vaccinated": 180
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Upper Subansiri",
+   "Infected": 4,
+   "Recovered": 3,
+   "Vaccinated": 211
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "West Kameng",
+   "Infected": 57,
+   "Recovered": 34,
+   "Vaccinated": 407
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "West Siang",
+   "Infected": 40,
+   "Recovered": 13,
+   "Vaccinated": 320
+ },
+ {
+   "State": "Assam",
+   "District": "Airport Quarantine",
+   "Infected": 13,
+   "Recovered": 13,
+   "Vaccinated": 414
+ },
+ {
+   "State": "Assam",
+   "District": "Baksa",
+   "Infected": 337,
+   "Recovered": 301,
+   "Vaccinated": 348
+ },
+ {
+   "State": "Assam",
+   "District": "Barpeta",
+   "Infected": 825,
+   "Recovered": 739,
+   "Vaccinated": 311
+ },
+ {
+   "State": "Assam",
+   "District": "Biswanath",
+   "Infected": 247,
+   "Recovered": 179,
+   "Vaccinated": 457
+ },
+ {
+   "State": "Assam",
+   "District": "Bongaigaon",
+   "Infected": 719,
+   "Recovered": 556,
+   "Vaccinated": 306
+ },
+ {
+   "State": "Assam",
+   "District": "Cachar",
+   "Infected": 1878,
+   "Recovered": 1499,
+   "Vaccinated": 361
+ },
+ {
+   "State": "Assam",
+   "District": "Charaideo",
+   "Infected": 73,
+   "Recovered": 67,
+   "Vaccinated": 390
+ },
+ {
+   "State": "Assam",
+   "District": "Chirang",
+   "Infected": 233,
+   "Recovered": 175,
+   "Vaccinated": 353
+ },
+ {
+   "State": "Assam",
+   "District": "Darrang",
+   "Infected": 1308,
+   "Recovered": 1077,
+   "Vaccinated": 132
+ },
+ {
+   "State": "Assam",
+   "District": "Dhemaji",
+   "Infected": 286,
+   "Recovered": 238,
+   "Vaccinated": 318
+ },
+ {
+   "State": "Assam",
+   "District": "Dhubri",
+   "Infected": 1163,
+   "Recovered": 785,
+   "Vaccinated": 478
+ },
+ {
+   "State": "Assam",
+   "District": "Dibrugarh",
+   "Infected": 2187,
+   "Recovered": 1486,
+   "Vaccinated": 491
+ },
+ {
+   "State": "Assam",
+   "District": "Dima Hasao",
+   "Infected": 191,
+   "Recovered": 166,
+   "Vaccinated": 289
+ },
+ {
+   "State": "Assam",
+   "District": "Goalpara",
+   "Infected": 453,
+   "Recovered": 382,
+   "Vaccinated": 480
+ },
+ {
+   "State": "Assam",
+   "District": "Golaghat",
+   "Infected": 1749,
+   "Recovered": 1252,
+   "Vaccinated": 76
+ },
+ {
+   "State": "Assam",
+   "District": "Hailakandi",
+   "Infected": 1006,
+   "Recovered": 785,
+   "Vaccinated": 315
+ },
+ {
+   "State": "Assam",
+   "District": "Hojai",
+   "Infected": 933,
+   "Recovered": 788,
+   "Vaccinated": 174
+ },
+ {
+   "State": "Assam",
+   "District": "Jorhat",
+   "Infected": 2155,
+   "Recovered": 1569,
+   "Vaccinated": 380
+ },
+ {
+   "State": "Assam",
+   "District": "Kamrup",
+   "Infected": 1843,
+   "Recovered": 1008,
+   "Vaccinated": 196
+ },
+ {
+   "State": "Assam",
+   "District": "Kamrup Metropolitan",
+   "Infected": 17732,
+   "Recovered": 11336,
+   "Vaccinated": 371
+ },
+ {
+   "State": "Assam",
+   "District": "Karbi Anglong",
+   "Infected": 400,
+   "Recovered": 322,
+   "Vaccinated": 76
+ },
+ {
+   "State": "Assam",
+   "District": "Karimganj",
+   "Infected": 612,
+   "Recovered": 549,
+   "Vaccinated": 151
+ },
+ {
+   "State": "Assam",
+   "District": "Kokrajhar",
+   "Infected": 408,
+   "Recovered": 348,
+   "Vaccinated": 100
+ },
+ {
+   "State": "Assam",
+   "District": "Lakhimpur",
+   "Infected": 666,
+   "Recovered": 565,
+   "Vaccinated": 431
+ },
+ {
+   "State": "Assam",
+   "District": "Majuli",
+   "Infected": 85,
+   "Recovered": 54,
+   "Vaccinated": 364
+ },
+ {
+   "State": "Assam",
+   "District": "Morigaon",
+   "Infected": 419,
+   "Recovered": 349,
+   "Vaccinated": 246
+ },
+ {
+   "State": "Assam",
+   "District": "Nagaon",
+   "Infected": 2580,
+   "Recovered": 1688,
+   "Vaccinated": 82
+ },
+ {
+   "State": "Assam",
+   "District": "Nalbari",
+   "Infected": 704,
+   "Recovered": 596,
+   "Vaccinated": 299
+ },
+ {
+   "State": "Assam",
+   "District": "Other State",
+   "Infected": 1,
+   "Recovered": 1,
+   "Vaccinated": 368
+ },
+ {
+   "State": "Assam",
+   "District": "Sivasagar",
+   "Infected": 334,
+   "Recovered": 290,
+   "Vaccinated": 394
+ },
+ {
+   "State": "Assam",
+   "District": "Sonitpur",
+   "Infected": 1487,
+   "Recovered": 914,
+   "Vaccinated": 497
+ },
+ {
+   "State": "Assam",
+   "District": "South Salmara Mankachar",
+   "Infected": 46,
+   "Recovered": 43,
+   "Vaccinated": 250
+ },
+ {
+   "State": "Assam",
+   "District": "Tinsukia",
+   "Infected": 1881,
+   "Recovered": 1318,
+   "Vaccinated": 370
+ },
+ {
+   "State": "Assam",
+   "District": "Udalguri",
+   "Infected": 509,
+   "Recovered": 417,
+   "Vaccinated": 348
+ },
+ {
+   "State": "Assam",
+   "District": "West Karbi Anglong",
+   "Infected": 30,
+   "Recovered": 29,
+   "Vaccinated": 283
+ },
+ {
+   "State": "Bihar",
+   "District": "Araria",
+   "Infected": 874,
+   "Recovered": 454,
+   "Vaccinated": 467
+ },
+ {
+   "State": "Bihar",
+   "District": "Arwal",
+   "Infected": 693,
+   "Recovered": 474,
+   "Vaccinated": 192
+ },
+ {
+   "State": "Bihar",
+   "District": "Aurangabad",
+   "Infected": 1219,
+   "Recovered": 766,
+   "Vaccinated": 159
+ },
+ {
+   "State": "Bihar",
+   "District": "Banka",
+   "Infected": 868,
+   "Recovered": 507,
+   "Vaccinated": 121
+ },
+ {
+   "State": "Bihar",
+   "District": "Begusarai",
+   "Infected": 2273,
+   "Recovered": 1450,
+   "Vaccinated": 299
+ },
+ {
+   "State": "Bihar",
+   "District": "Bhagalpur",
+   "Infected": 3138,
+   "Recovered": 2316,
+   "Vaccinated": 168
+ },
+ {
+   "State": "Bihar",
+   "District": "Bhojpur",
+   "Infected": 2000,
+   "Recovered": 1320,
+   "Vaccinated": 324
+ },
+ {
+   "State": "Bihar",
+   "District": "Buxar",
+   "Infected": 1427,
+   "Recovered": 830,
+   "Vaccinated": 55
+ },
+ {
+   "State": "Bihar",
+   "District": "Darbhanga",
+   "Infected": 1131,
+   "Recovered": 707,
+   "Vaccinated": 145
+ },
+ {
+   "State": "Bihar",
+   "District": "East Champaran",
+   "Infected": 1836,
+   "Recovered": 1111,
+   "Vaccinated": 118
+ },
+ {
+   "State": "Bihar",
+   "District": "Gaya",
+   "Infected": 2607,
+   "Recovered": 1729,
+   "Vaccinated": 483
+ },
+ {
+   "State": "Bihar",
+   "District": "Gopalganj",
+   "Infected": 1228,
+   "Recovered": 837,
+   "Vaccinated": 467
+ },
+ {
+   "State": "Bihar",
+   "District": "Jamui",
+   "Infected": 1022,
+   "Recovered": 689,
+   "Vaccinated": 436
+ },
+ {
+   "State": "Bihar",
+   "District": "Jehanabad",
+   "Infected": 1131,
+   "Recovered": 763,
+   "Vaccinated": 149
+ },
+ {
+   "State": "Bihar",
+   "District": "Kaimur",
+   "Infected": 621,
+   "Recovered": 453,
+   "Vaccinated": 267
+ },
+ {
+   "State": "Bihar",
+   "District": "Katihar",
+   "Infected": 1953,
+   "Recovered": 1002,
+   "Vaccinated": 200
+ },
+ {
+   "State": "Bihar",
+   "District": "Khagaria",
+   "Infected": 1466,
+   "Recovered": 971,
+   "Vaccinated": 414
+ },
+ {
+   "State": "Bihar",
+   "District": "Kishanganj",
+   "Infected": 896,
+   "Recovered": 616,
+   "Vaccinated": 64
+ },
+ {
+   "State": "Bihar",
+   "District": "Lakhisarai",
+   "Infected": 891,
+   "Recovered": 701,
+   "Vaccinated": 493
+ },
+ {
+   "State": "Bihar",
+   "District": "Madhepura",
+   "Infected": 906,
+   "Recovered": 574,
+   "Vaccinated": 88
+ },
+ {
+   "State": "Bihar",
+   "District": "Madhubani",
+   "Infected": 1576,
+   "Recovered": 911,
+   "Vaccinated": 444
+ },
+ {
+   "State": "Bihar",
+   "District": "Munger",
+   "Infected": 1352,
+   "Recovered": 950,
+   "Vaccinated": 347
+ },
+ {
+   "State": "Bihar",
+   "District": "Muzaffarpur",
+   "Infected": 3007,
+   "Recovered": 2100,
+   "Vaccinated": 193
+ },
+ {
+   "State": "Bihar",
+   "District": "Nalanda",
+   "Infected": 2716,
+   "Recovered": 1718,
+   "Vaccinated": 105
+ },
+ {
+   "State": "Bihar",
+   "District": "Nawada",
+   "Infected": 1558,
+   "Recovered": 1211,
+   "Vaccinated": 287
+ },
+ {
+   "State": "Bihar",
+   "District": "Patna",
+   "Infected": 11592,
+   "Recovered": 7559,
+   "Vaccinated": 358
+ },
+ {
+   "State": "Bihar",
+   "District": "Purnia",
+   "Infected": 1650,
+   "Recovered": 1090,
+   "Vaccinated": 287
+ },
+ {
+   "State": "Bihar",
+   "District": "Rohtas",
+   "Infected": 2610,
+   "Recovered": 1644,
+   "Vaccinated": 423
+ },
+ {
+   "State": "Bihar",
+   "District": "Saharsa",
+   "Infected": 1075,
+   "Recovered": 548,
+   "Vaccinated": 373
+ },
+ {
+   "State": "Bihar",
+   "District": "Samastipur",
+   "Infected": 1740,
+   "Recovered": 1008,
+   "Vaccinated": 198
+ },
+ {
+   "State": "Bihar",
+   "District": "Saran",
+   "Infected": 2155,
+   "Recovered": 1288,
+   "Vaccinated": 89
+ },
+ {
+   "State": "Bihar",
+   "District": "Sheikhpura",
+   "Infected": 805,
+   "Recovered": 465,
+   "Vaccinated": 321
+ },
+ {
+   "State": "Bihar",
+   "District": "Sheohar",
+   "Infected": 371,
+   "Recovered": 234,
+   "Vaccinated": 118
+ },
+ {
+   "State": "Bihar",
+   "District": "Sitamarhi",
+   "Infected": 954,
+   "Recovered": 450,
+   "Vaccinated": 320
+ },
+ {
+   "State": "Bihar",
+   "District": "Siwan",
+   "Infected": 1867,
+   "Recovered": 1317,
+   "Vaccinated": 435
+ },
+ {
+   "State": "Bihar",
+   "District": "Supaul",
+   "Infected": 1238,
+   "Recovered": 777,
+   "Vaccinated": 350
+ },
+ {
+   "State": "Bihar",
+   "District": "Vaishali",
+   "Infected": 1982,
+   "Recovered": 1078,
+   "Vaccinated": 112
+ },
+ {
+   "State": "Bihar",
+   "District": "West Champaran",
+   "Infected": 1720,
+   "Recovered": 1202,
+   "Vaccinated": 497
+ },
+ {
+   "State": "Chandigarh",
+   "District": "Chandigarh",
+   "Infected": 1327,
+   "Recovered": 777,
+   "Vaccinated": 50
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Other State",
+   "Infected": 16,
+   "Recovered": 6,
+   "Vaccinated": 265
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Balod",
+   "Infected": 102,
+   "Recovered": 92,
+   "Vaccinated": 492
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Baloda Bazar",
+   "Infected": 434,
+   "Recovered": 362,
+   "Vaccinated": 140
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Balrampur",
+   "Infected": 233,
+   "Recovered": 191,
+   "Vaccinated": 293
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Bametara",
+   "Infected": 130,
+   "Recovered": 127,
+   "Vaccinated": 318
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Bastar",
+   "Infected": 282,
+   "Recovered": 155,
+   "Vaccinated": 424
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Bijapur",
+   "Infected": 88,
+   "Recovered": 58,
+   "Vaccinated": 352
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Bilaspur",
+   "Infected": 745,
+   "Recovered": 591,
+   "Vaccinated": 348
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Dakshin Bastar Dantewada",
+   "Infected": 135,
+   "Recovered": 129,
+   "Vaccinated": 265
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Dhamtari",
+   "Infected": 46,
+   "Recovered": 37,
+   "Vaccinated": 230
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Durg",
+   "Infected": 977,
+   "Recovered": 667,
+   "Vaccinated": 453
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Gariaband",
+   "Infected": 106,
+   "Recovered": 83,
+   "Vaccinated": 128
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Janjgir Champa",
+   "Infected": 513,
+   "Recovered": 452,
+   "Vaccinated": 429
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Jashpur",
+   "Infected": 258,
+   "Recovered": 218,
+   "Vaccinated": 379
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Kabeerdham",
+   "Infected": 214,
+   "Recovered": 182,
+   "Vaccinated": 483
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Kondagaon",
+   "Infected": 148,
+   "Recovered": 75,
+   "Vaccinated": 489
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Korba",
+   "Infected": 428,
+   "Recovered": 388,
+   "Vaccinated": 116
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Koriya",
+   "Infected": 138,
+   "Recovered": 104,
+   "Vaccinated": 318
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Mahasamund",
+   "Infected": 193,
+   "Recovered": 108,
+   "Vaccinated": 313
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Mungeli",
+   "Infected": 174,
+   "Recovered": 168,
+   "Vaccinated": 470
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Narayanpur",
+   "Infected": 188,
+   "Recovered": 171,
+   "Vaccinated": 306
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Raigarh",
+   "Infected": 288,
+   "Recovered": 202,
+   "Vaccinated": 171
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Raipur",
+   "Infected": 3673,
+   "Recovered": 2325,
+   "Vaccinated": 194
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Rajnandgaon",
+   "Infected": 817,
+   "Recovered": 597,
+   "Vaccinated": 268
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Sukma",
+   "Infected": 79,
+   "Recovered": 71,
+   "Vaccinated": 324
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Surajpur",
+   "Infected": 85,
+   "Recovered": 50,
+   "Vaccinated": 116
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Surguja",
+   "Infected": 244,
+   "Recovered": 222,
+   "Vaccinated": 330
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Uttar Bastar Kanker",
+   "Infected": 254,
+   "Recovered": 226,
+   "Vaccinated": 335
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Gaurela Pendra Marwahi",
+   "Infected": 32,
+   "Recovered": 31,
+   "Vaccinated": 422
+ },
+ {
+   "State": "Delhi",
+   "District": "Central Delhi",
+   "Infected": 184,
+   "Recovered": 0,
+   "Vaccinated": 366
+ },
+ {
+   "State": "Delhi",
+   "District": "East Delhi",
+   "Infected": 38,
+   "Recovered": 0,
+   "Vaccinated": 301
+ },
+ {
+   "State": "Delhi",
+   "District": "New Delhi",
+   "Infected": 37,
+   "Recovered": 0,
+   "Vaccinated": 316
+ },
+ {
+   "State": "Delhi",
+   "District": "North Delhi",
+   "Infected": 60,
+   "Recovered": 0,
+   "Vaccinated": 120
+ },
+ {
+   "State": "Delhi",
+   "District": "North East Delhi",
+   "Infected": 25,
+   "Recovered": 0,
+   "Vaccinated": 81
+ },
+ {
+   "State": "Delhi",
+   "District": "North West Delhi",
+   "Infected": 32,
+   "Recovered": 0,
+   "Vaccinated": 200
+ },
+ {
+   "State": "Delhi",
+   "District": "Shahdara",
+   "Infected": 48,
+   "Recovered": 0,
+   "Vaccinated": 375
+ },
+ {
+   "State": "Delhi",
+   "District": "South Delhi",
+   "Infected": 70,
+   "Recovered": 0,
+   "Vaccinated": 121
+ },
+ {
+   "State": "Delhi",
+   "District": "South East Delhi",
+   "Infected": 130,
+   "Recovered": 0,
+   "Vaccinated": 226
+ },
+ {
+   "State": "Delhi",
+   "District": "South West Delhi",
+   "Infected": 42,
+   "Recovered": 0,
+   "Vaccinated": 149
+ },
+ {
+   "State": "Delhi",
+   "District": "West Delhi",
+   "Infected": 122,
+   "Recovered": 0,
+   "Vaccinated": 291
+ },
+ {
+   "State": "Dadra and Nagar Haveli and Daman and Diu",
+   "District": "Other State",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 289
+ },
+ {
+   "State": "Dadra and Nagar Haveli and Daman and Diu",
+   "District": "Dadra and Nagar Haveli",
+   "Infected": 620,
+   "Recovered": 444,
+   "Vaccinated": 234
+ },
+ {
+   "State": "Dadra and Nagar Haveli and Daman and Diu",
+   "District": "Daman",
+   "Infected": 680,
+   "Recovered": 483,
+   "Vaccinated": 440
+ },
+ {
+   "State": "Dadra and Nagar Haveli and Daman and Diu",
+   "District": "Diu",
+   "Infected": 115,
+   "Recovered": 70,
+   "Vaccinated": 377
+ },
+ {
+   "State": "Goa",
+   "District": "Other State",
+   "Infected": 187,
+   "Recovered": 174,
+   "Vaccinated": 130
+ },
+ {
+   "State": "Goa",
+   "District": "North Goa",
+   "Infected": 1251,
+   "Recovered": 502,
+   "Vaccinated": 412
+ },
+ {
+   "State": "Goa",
+   "District": "South Goa",
+   "Infected": 2235,
+   "Recovered": 836,
+   "Vaccinated": 144
+ },
+ {
+   "State": "Gujarat",
+   "District": "Other State",
+   "Infected": 119,
+   "Recovered": 83,
+   "Vaccinated": 196
+ },
+ {
+   "State": "Gujarat",
+   "District": "Ahmedabad",
+   "Infected": 27434,
+   "Recovered": 22152,
+   "Vaccinated": 462
+ },
+ {
+   "State": "Gujarat",
+   "District": "Amreli",
+   "Infected": 570,
+   "Recovered": 324,
+   "Vaccinated": 435
+ },
+ {
+   "State": "Gujarat",
+   "District": "Anand",
+   "Infected": 538,
+   "Recovered": 475,
+   "Vaccinated": 131
+ },
+ {
+   "State": "Gujarat",
+   "District": "Aravalli",
+   "Infected": 321,
+   "Recovered": 271,
+   "Vaccinated": 409
+ },
+ {
+   "State": "Gujarat",
+   "District": "Banaskantha",
+   "Infected": 769,
+   "Recovered": 752,
+   "Vaccinated": 458
+ },
+ {
+   "State": "Gujarat",
+   "District": "Bharuch",
+   "Infected": 983,
+   "Recovered": 757,
+   "Vaccinated": 294
+ },
+ {
+   "State": "Gujarat",
+   "District": "Bhavnagar",
+   "Infected": 1689,
+   "Recovered": 1264,
+   "Vaccinated": 167
+ },
+ {
+   "State": "Gujarat",
+   "District": "Botad",
+   "Infected": 319,
+   "Recovered": 211,
+   "Vaccinated": 220
+ },
+ {
+   "State": "Gujarat",
+   "District": "Chhota Udaipur",
+   "Infected": 178,
+   "Recovered": 157,
+   "Vaccinated": 322
+ },
+ {
+   "State": "Gujarat",
+   "District": "Dahod",
+   "Infected": 696,
+   "Recovered": 185,
+   "Vaccinated": 264
+ },
+ {
+   "State": "Gujarat",
+   "District": "Dang",
+   "Infected": 27,
+   "Recovered": 12,
+   "Vaccinated": 413
+ },
+ {
+   "State": "Gujarat",
+   "District": "Devbhumi Dwarka",
+   "Infected": 73,
+   "Recovered": 47,
+   "Vaccinated": 229
+ },
+ {
+   "State": "Gujarat",
+   "District": "Gandhinagar",
+   "Infected": 1653,
+   "Recovered": 1276,
+   "Vaccinated": 348
+ },
+ {
+   "State": "Gujarat",
+   "District": "Gir Somnath",
+   "Infected": 467,
+   "Recovered": 362,
+   "Vaccinated": 347
+ },
+ {
+   "State": "Gujarat",
+   "District": "Jamnagar",
+   "Infected": 947,
+   "Recovered": 595,
+   "Vaccinated": 296
+ },
+ {
+   "State": "Gujarat",
+   "District": "Junagadh",
+   "Infected": 1078,
+   "Recovered": 849,
+   "Vaccinated": 237
+ },
+ {
+   "State": "Gujarat",
+   "District": "Kheda",
+   "Infected": 688,
+   "Recovered": 563,
+   "Vaccinated": 198
+ },
+ {
+   "State": "Gujarat",
+   "District": "Kutch",
+   "Infected": 656,
+   "Recovered": 409,
+   "Vaccinated": 458
+ },
+ {
+   "State": "Gujarat",
+   "District": "Mahisagar",
+   "Infected": 391,
+   "Recovered": 210,
+   "Vaccinated": 308
+ },
+ {
+   "State": "Gujarat",
+   "District": "Mehsana",
+   "Infected": 1042,
+   "Recovered": 547,
+   "Vaccinated": 155
+ },
+ {
+   "State": "Gujarat",
+   "District": "Morbi",
+   "Infected": 362,
+   "Recovered": 239,
+   "Vaccinated": 306
+ },
+ {
+   "State": "Gujarat",
+   "District": "Narmada",
+   "Infected": 394,
+   "Recovered": 315,
+   "Vaccinated": 428
+ },
+ {
+   "State": "Gujarat",
+   "District": "Navsari",
+   "Infected": 626,
+   "Recovered": 455,
+   "Vaccinated": 350
+ },
+ {
+   "State": "Gujarat",
+   "District": "Panchmahal",
+   "Infected": 601,
+   "Recovered": 375,
+   "Vaccinated": 246
+ },
+ {
+   "State": "Gujarat",
+   "District": "Patan",
+   "Infected": 651,
+   "Recovered": 555,
+   "Vaccinated": 215
+ },
+ {
+   "State": "Gujarat",
+   "District": "Porbandar",
+   "Infected": 115,
+   "Recovered": 45,
+   "Vaccinated": 97
+ },
+ {
+   "State": "Gujarat",
+   "District": "Rajkot",
+   "Infected": 2328,
+   "Recovered": 1273,
+   "Vaccinated": 123
+ },
+ {
+   "State": "Gujarat",
+   "District": "Sabarkantha",
+   "Infected": 504,
+   "Recovered": 346,
+   "Vaccinated": 365
+ },
+ {
+   "State": "Gujarat",
+   "District": "Surat",
+   "Infected": 14546,
+   "Recovered": 10233,
+   "Vaccinated": 417
+ },
+ {
+   "State": "Gujarat",
+   "District": "Surendranagar",
+   "Infected": 878,
+   "Recovered": 494,
+   "Vaccinated": 152
+ },
+ {
+   "State": "Gujarat",
+   "District": "Tapi",
+   "Infected": 172,
+   "Recovered": 136,
+   "Vaccinated": 157
+ },
+ {
+   "State": "Gujarat",
+   "District": "Vadodara",
+   "Infected": 5279,
+   "Recovered": 4065,
+   "Vaccinated": 280
+ },
+ {
+   "State": "Gujarat",
+   "District": "Valsad",
+   "Infected": 717,
+   "Recovered": 492,
+   "Vaccinated": 389
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Bilaspur",
+   "Infected": 134,
+   "Recovered": 69,
+   "Vaccinated": 230
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Chamba",
+   "Infected": 137,
+   "Recovered": 86,
+   "Vaccinated": 314
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Hamirpur",
+   "Infected": 339,
+   "Recovered": 285,
+   "Vaccinated": 188
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Kangra",
+   "Infected": 500,
+   "Recovered": 391,
+   "Vaccinated": 280
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Kinnaur",
+   "Infected": 46,
+   "Recovered": 34,
+   "Vaccinated": 496
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Kullu",
+   "Infected": 86,
+   "Recovered": 20,
+   "Vaccinated": 307
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Lahaul and Spiti",
+   "Infected": 4,
+   "Recovered": 4,
+   "Vaccinated": 50
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Mandi",
+   "Infected": 227,
+   "Recovered": 78,
+   "Vaccinated": 427
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Shimla",
+   "Infected": 188,
+   "Recovered": 114,
+   "Vaccinated": 322
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Sirmaur",
+   "Infected": 364,
+   "Recovered": 267,
+   "Vaccinated": 421
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Solan",
+   "Infected": 758,
+   "Recovered": 344,
+   "Vaccinated": 418
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Una",
+   "Infected": 264,
+   "Recovered": 173,
+   "Vaccinated": 447
+ },
+ {
+   "State": "Haryana",
+   "District": "Foreign Evacuees",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 204
+ },
+ {
+   "State": "Haryana",
+   "District": "Ambala",
+   "Infected": 1888,
+   "Recovered": 1527,
+   "Vaccinated": 188
+ },
+ {
+   "State": "Haryana",
+   "District": "Bhiwani",
+   "Infected": 823,
+   "Recovered": 767,
+   "Vaccinated": 165
+ },
+ {
+   "State": "Haryana",
+   "District": "Charkhi Dadri",
+   "Infected": 179,
+   "Recovered": 107,
+   "Vaccinated": 355
+ },
+ {
+   "State": "Haryana",
+   "District": "Faridabad",
+   "Infected": 9671,
+   "Recovered": 8622,
+   "Vaccinated": 205
+ },
+ {
+   "State": "Haryana",
+   "District": "Fatehabad",
+   "Infected": 396,
+   "Recovered": 253,
+   "Vaccinated": 294
+ },
+ {
+   "State": "Haryana",
+   "District": "Gurugram",
+   "Infected": 9495,
+   "Recovered": 8654,
+   "Vaccinated": 376
+ },
+ {
+   "State": "Haryana",
+   "District": "Hisar",
+   "Infected": 1065,
+   "Recovered": 767,
+   "Vaccinated": 224
+ },
+ {
+   "State": "Haryana",
+   "District": "Italians",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 347
+ },
+ {
+   "State": "Haryana",
+   "District": "Jhajjar",
+   "Infected": 887,
+   "Recovered": 795,
+   "Vaccinated": 255
+ },
+ {
+   "State": "Haryana",
+   "District": "Jind",
+   "Infected": 335,
+   "Recovered": 191,
+   "Vaccinated": 316
+ },
+ {
+   "State": "Haryana",
+   "District": "Kaithal",
+   "Infected": 316,
+   "Recovered": 220,
+   "Vaccinated": 435
+ },
+ {
+   "State": "Haryana",
+   "District": "Karnal",
+   "Infected": 1189,
+   "Recovered": 898,
+   "Vaccinated": 96
+ },
+ {
+   "State": "Haryana",
+   "District": "Kurukshetra",
+   "Infected": 598,
+   "Recovered": 356,
+   "Vaccinated": 470
+ },
+ {
+   "State": "Haryana",
+   "District": "Mahendragarh",
+   "Infected": 872,
+   "Recovered": 711,
+   "Vaccinated": 58
+ },
+ {
+   "State": "Haryana",
+   "District": "Nuh",
+   "Infected": 573,
+   "Recovered": 509,
+   "Vaccinated": 112
+ },
+ {
+   "State": "Haryana",
+   "District": "Palwal",
+   "Infected": 1016,
+   "Recovered": 847,
+   "Vaccinated": 219
+ },
+ {
+   "State": "Haryana",
+   "District": "Panchkula",
+   "Infected": 816,
+   "Recovered": 456,
+   "Vaccinated": 426
+ },
+ {
+   "State": "Haryana",
+   "District": "Panipat",
+   "Infected": 1398,
+   "Recovered": 863,
+   "Vaccinated": 300
+ },
+ {
+   "State": "Haryana",
+   "District": "Rewari",
+   "Infected": 1997,
+   "Recovered": 1529,
+   "Vaccinated": 428
+ },
+ {
+   "State": "Haryana",
+   "District": "Rohtak",
+   "Infected": 1800,
+   "Recovered": 1322,
+   "Vaccinated": 318
+ },
+ {
+   "State": "Haryana",
+   "District": "Sirsa",
+   "Infected": 492,
+   "Recovered": 275,
+   "Vaccinated": 121
+ },
+ {
+   "State": "Haryana",
+   "District": "Sonipat",
+   "Infected": 3096,
+   "Recovered": 2744,
+   "Vaccinated": 222
+ },
+ {
+   "State": "Haryana",
+   "District": "Yamunanagar",
+   "Infected": 401,
+   "Recovered": 227,
+   "Vaccinated": 358
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Bokaro",
+   "Infected": 382,
+   "Recovered": 167,
+   "Vaccinated": 393
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Chatra",
+   "Infected": 384,
+   "Recovered": 186,
+   "Vaccinated": 223
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Deoghar",
+   "Infected": 579,
+   "Recovered": 156,
+   "Vaccinated": 439
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Dhanbad",
+   "Infected": 825,
+   "Recovered": 491,
+   "Vaccinated": 274
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Dumka",
+   "Infected": 181,
+   "Recovered": 59,
+   "Vaccinated": 341
+ },
+ {
+   "State": "Jharkhand",
+   "District": "East Singhbhum",
+   "Infected": 2587,
+   "Recovered": 805,
+   "Vaccinated": 228
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Garhwa",
+   "Infected": 534,
+   "Recovered": 222,
+   "Vaccinated": 422
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Giridih",
+   "Infected": 640,
+   "Recovered": 519,
+   "Vaccinated": 459
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Godda",
+   "Infected": 561,
+   "Recovered": 141,
+   "Vaccinated": 282
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Gumla",
+   "Infected": 400,
+   "Recovered": 112,
+   "Vaccinated": 366
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Hazaribagh",
+   "Infected": 808,
+   "Recovered": 383,
+   "Vaccinated": 204
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Jamtara",
+   "Infected": 148,
+   "Recovered": 77,
+   "Vaccinated": 264
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Khunti",
+   "Infected": 292,
+   "Recovered": 53,
+   "Vaccinated": 293
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Koderma",
+   "Infected": 682,
+   "Recovered": 348,
+   "Vaccinated": 108
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Latehar",
+   "Infected": 384,
+   "Recovered": 107,
+   "Vaccinated": 492
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Lohardaga",
+   "Infected": 282,
+   "Recovered": 204,
+   "Vaccinated": 282
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Pakur",
+   "Infected": 314,
+   "Recovered": 101,
+   "Vaccinated": 455
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Palamu",
+   "Infected": 613,
+   "Recovered": 285,
+   "Vaccinated": 472
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Ramgarh",
+   "Infected": 517,
+   "Recovered": 329,
+   "Vaccinated": 394
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Ranchi",
+   "Infected": 2991,
+   "Recovered": 987,
+   "Vaccinated": 195
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Sahibganj",
+   "Infected": 275,
+   "Recovered": 67,
+   "Vaccinated": 205
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Saraikela-Kharsawan",
+   "Infected": 354,
+   "Recovered": 147,
+   "Vaccinated": 323
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Simdega",
+   "Infected": 580,
+   "Recovered": 426,
+   "Vaccinated": 299
+ },
+ {
+   "State": "Jharkhand",
+   "District": "West Singhbhum",
+   "Infected": 443,
+   "Recovered": 222,
+   "Vaccinated": 195
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Anantnag",
+   "Infected": 1490,
+   "Recovered": 1153,
+   "Vaccinated": 412
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Bandipora",
+   "Infected": 914,
+   "Recovered": 553,
+   "Vaccinated": 254
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Baramulla",
+   "Infected": 2041,
+   "Recovered": 1558,
+   "Vaccinated": 295
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Budgam",
+   "Infected": 1438,
+   "Recovered": 950,
+   "Vaccinated": 465
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Doda",
+   "Infected": 299,
+   "Recovered": 218,
+   "Vaccinated": 189
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Ganderbal",
+   "Infected": 603,
+   "Recovered": 334,
+   "Vaccinated": 390
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Jammu",
+   "Infected": 1412,
+   "Recovered": 734,
+   "Vaccinated": 59
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Kathua",
+   "Infected": 565,
+   "Recovered": 455,
+   "Vaccinated": 310
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Kishtwar",
+   "Infected": 159,
+   "Recovered": 110,
+   "Vaccinated": 206
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Kulgam",
+   "Infected": 1572,
+   "Recovered": 1377,
+   "Vaccinated": 364
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Kupwara",
+   "Infected": 1181,
+   "Recovered": 957,
+   "Vaccinated": 462
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Mirpur",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 313
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Muzaffarabad",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 139
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Pulwama",
+   "Infected": 1743,
+   "Recovered": 994,
+   "Vaccinated": 138
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Punch",
+   "Infected": 252,
+   "Recovered": 161,
+   "Vaccinated": 488
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Rajouri",
+   "Infected": 751,
+   "Recovered": 488,
+   "Vaccinated": 447
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Ramban",
+   "Infected": 575,
+   "Recovered": 446,
+   "Vaccinated": 85
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Reasi",
+   "Infected": 198,
+   "Recovered": 71,
+   "Vaccinated": 197
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Samba",
+   "Infected": 467,
+   "Recovered": 296,
+   "Vaccinated": 107
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Shopiyan",
+   "Infected": 1500,
+   "Recovered": 1283,
+   "Vaccinated": 385
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Srinagar",
+   "Infected": 5699,
+   "Recovered": 3180,
+   "Vaccinated": 321
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Udhampur",
+   "Infected": 595,
+   "Recovered": 390,
+   "Vaccinated": 208
+ },
+ {
+   "State": "Karnataka",
+   "District": "Bagalkote",
+   "Infected": 2614,
+   "Recovered": 1134,
+   "Vaccinated": 228
+ },
+ {
+   "State": "Karnataka",
+   "District": "Ballari",
+   "Infected": 8700,
+   "Recovered": 4299,
+   "Vaccinated": 443
+ },
+ {
+   "State": "Karnataka",
+   "District": "Belagavi",
+   "Infected": 4466,
+   "Recovered": 1178,
+   "Vaccinated": 74
+ },
+ {
+   "State": "Karnataka",
+   "District": "Bengaluru Rural",
+   "Infected": 2615,
+   "Recovered": 776,
+   "Vaccinated": 469
+ },
+ {
+   "State": "Karnataka",
+   "District": "Bengaluru Urban",
+   "Infected": 67425,
+   "Recovered": 33932,
+   "Vaccinated": 433
+ },
+ {
+   "State": "Karnataka",
+   "District": "Bidar",
+   "Infected": 2712,
+   "Recovered": 1803,
+   "Vaccinated": 310
+ },
+ {
+   "State": "Karnataka",
+   "District": "Chamarajanagara",
+   "Infected": 985,
+   "Recovered": 566,
+   "Vaccinated": 225
+ },
+ {
+   "State": "Karnataka",
+   "District": "Chikkaballapura",
+   "Infected": 2370,
+   "Recovered": 1364,
+   "Vaccinated": 309
+ },
+ {
+   "State": "Karnataka",
+   "District": "Chikkamagaluru",
+   "Infected": 1306,
+   "Recovered": 565,
+   "Vaccinated": 68
+ },
+ {
+   "State": "Karnataka",
+   "District": "Chitradurga",
+   "Infected": 885,
+   "Recovered": 451,
+   "Vaccinated": 196
+ },
+ {
+   "State": "Karnataka",
+   "District": "Dakshina Kannada",
+   "Infected": 6710,
+   "Recovered": 3107,
+   "Vaccinated": 490
+ },
+ {
+   "State": "Karnataka",
+   "District": "Davanagere",
+   "Infected": 3040,
+   "Recovered": 1842,
+   "Vaccinated": 350
+ },
+ {
+   "State": "Karnataka",
+   "District": "Dharwad",
+   "Infected": 5246,
+   "Recovered": 2846,
+   "Vaccinated": 486
+ },
+ {
+   "State": "Karnataka",
+   "District": "Gadag",
+   "Infected": 1966,
+   "Recovered": 893,
+   "Vaccinated": 416
+ },
+ {
+   "State": "Karnataka",
+   "District": "Hassan",
+   "Infected": 3037,
+   "Recovered": 1160,
+   "Vaccinated": 139
+ },
+ {
+   "State": "Karnataka",
+   "District": "Haveri",
+   "Infected": 1580,
+   "Recovered": 818,
+   "Vaccinated": 492
+ },
+ {
+   "State": "Karnataka",
+   "District": "Kalaburagi",
+   "Infected": 6615,
+   "Recovered": 4053,
+   "Vaccinated": 99
+ },
+ {
+   "State": "Karnataka",
+   "District": "Kodagu",
+   "Infected": 601,
+   "Recovered": 363,
+   "Vaccinated": 291
+ },
+ {
+   "State": "Karnataka",
+   "District": "Kolar",
+   "Infected": 1657,
+   "Recovered": 811,
+   "Vaccinated": 317
+ },
+ {
+   "State": "Karnataka",
+   "District": "Koppal",
+   "Infected": 1878,
+   "Recovered": 844,
+   "Vaccinated": 216
+ },
+ {
+   "State": "Karnataka",
+   "District": "Mandya",
+   "Infected": 2292,
+   "Recovered": 1246,
+   "Vaccinated": 156
+ },
+ {
+   "State": "Karnataka",
+   "District": "Mysuru",
+   "Infected": 6476,
+   "Recovered": 2494,
+   "Vaccinated": 62
+ },
+ {
+   "State": "Karnataka",
+   "District": "Other State",
+   "Infected": 36,
+   "Recovered": 33,
+   "Vaccinated": 60
+ },
+ {
+   "State": "Karnataka",
+   "District": "Raichur",
+   "Infected": 3125,
+   "Recovered": 2053,
+   "Vaccinated": 437
+ },
+ {
+   "State": "Karnataka",
+   "District": "Ramanagara",
+   "Infected": 1389,
+   "Recovered": 690,
+   "Vaccinated": 71
+ },
+ {
+   "State": "Karnataka",
+   "District": "Shivamogga",
+   "Infected": 2438,
+   "Recovered": 915,
+   "Vaccinated": 180
+ },
+ {
+   "State": "Karnataka",
+   "District": "Tumakuru",
+   "Infected": 2133,
+   "Recovered": 940,
+   "Vaccinated": 129
+ },
+ {
+   "State": "Karnataka",
+   "District": "Udupi",
+   "Infected": 5359,
+   "Recovered": 3058,
+   "Vaccinated": 462
+ },
+ {
+   "State": "Karnataka",
+   "District": "Uttara Kannada",
+   "Infected": 2479,
+   "Recovered": 1659,
+   "Vaccinated": 178
+ },
+ {
+   "State": "Karnataka",
+   "District": "Vijayapura",
+   "Infected": 3419,
+   "Recovered": 2396,
+   "Vaccinated": 122
+ },
+ {
+   "State": "Karnataka",
+   "District": "Yadgir",
+   "Infected": 2700,
+   "Recovered": 1992,
+   "Vaccinated": 346
+ },
+ {
+   "State": "Kerala",
+   "District": "Other State",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 171
+ },
+ {
+   "State": "Kerala",
+   "District": "Alappuzha",
+   "Infected": 2263,
+   "Recovered": 1296,
+   "Vaccinated": 415
+ },
+ {
+   "State": "Kerala",
+   "District": "Ernakulam",
+   "Infected": 2486,
+   "Recovered": 1384,
+   "Vaccinated": 404
+ },
+ {
+   "State": "Kerala",
+   "District": "Idukki",
+   "Infected": 982,
+   "Recovered": 655,
+   "Vaccinated": 204
+ },
+ {
+   "State": "Kerala",
+   "District": "Kannur",
+   "Infected": 1574,
+   "Recovered": 1197,
+   "Vaccinated": 407
+ },
+ {
+   "State": "Kerala",
+   "District": "Kasaragod",
+   "Infected": 2347,
+   "Recovered": 1296,
+   "Vaccinated": 64
+ },
+ {
+   "State": "Kerala",
+   "District": "Kollam",
+   "Infected": 1998,
+   "Recovered": 1434,
+   "Vaccinated": 67
+ },
+ {
+   "State": "Kerala",
+   "District": "Kottayam",
+   "Infected": 1463,
+   "Recovered": 1001,
+   "Vaccinated": 312
+ },
+ {
+   "State": "Kerala",
+   "District": "Kozhikode",
+   "Infected": 1952,
+   "Recovered": 1045,
+   "Vaccinated": 473
+ },
+ {
+   "State": "Kerala",
+   "District": "Malappuram",
+   "Infected": 2838,
+   "Recovered": 1720,
+   "Vaccinated": 219
+ },
+ {
+   "State": "Kerala",
+   "District": "Palakkad",
+   "Infected": 2082,
+   "Recovered": 1528,
+   "Vaccinated": 215
+ },
+ {
+   "State": "Kerala",
+   "District": "Pathanamthitta",
+   "Infected": 1690,
+   "Recovered": 1216,
+   "Vaccinated": 298
+ },
+ {
+   "State": "Kerala",
+   "District": "Thiruvananthapuram",
+   "Infected": 6068,
+   "Recovered": 2890,
+   "Vaccinated": 368
+ },
+ {
+   "State": "Kerala",
+   "District": "Thrissur",
+   "Infected": 1908,
+   "Recovered": 1260,
+   "Vaccinated": 479
+ },
+ {
+   "State": "Kerala",
+   "District": "Wayanad",
+   "Infected": 798,
+   "Recovered": 411,
+   "Vaccinated": 246
+ },
+ {
+   "State": "Ladakh",
+   "District": "Kargil",
+   "Infected": 854,
+   "Recovered": 727,
+   "Vaccinated": 277
+ },
+ {
+   "State": "Ladakh",
+   "District": "Leh",
+   "Infected": 741,
+   "Recovered": 450,
+   "Vaccinated": 477
+ },
+ {
+   "State": "Lakshadweep",
+   "District": "Lakshadweep",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 335
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Ahmednagar",
+   "Infected": 7440,
+   "Recovered": 4094,
+   "Vaccinated": 65
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Akola",
+   "Infected": 2815,
+   "Recovered": 2172,
+   "Vaccinated": 479
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Amravati",
+   "Infected": 2557,
+   "Recovered": 1665,
+   "Vaccinated": 482
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Aurangabad",
+   "Infected": 15218,
+   "Recovered": 10143,
+   "Vaccinated": 468
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Beed",
+   "Infected": 1187,
+   "Recovered": 379,
+   "Vaccinated": 65
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Bhandara",
+   "Infected": 318,
+   "Recovered": 226,
+   "Vaccinated": 456
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Buldhana",
+   "Infected": 1663,
+   "Recovered": 924,
+   "Vaccinated": 202
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Chandrapur",
+   "Infected": 642,
+   "Recovered": 320,
+   "Vaccinated": 107
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Dhule",
+   "Infected": 3470,
+   "Recovered": 2255,
+   "Vaccinated": 158
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Gadchiroli",
+   "Infected": 360,
+   "Recovered": 259,
+   "Vaccinated": 203
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Gondia",
+   "Infected": 467,
+   "Recovered": 251,
+   "Vaccinated": 380
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Hingoli",
+   "Infected": 689,
+   "Recovered": 451,
+   "Vaccinated": 395
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Jalgaon",
+   "Infected": 13031,
+   "Recovered": 8951,
+   "Vaccinated": 151
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Jalna",
+   "Infected": 2087,
+   "Recovered": 1553,
+   "Vaccinated": 410
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Kolhapur",
+   "Infected": 7651,
+   "Recovered": 2817,
+   "Vaccinated": 272
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Latur",
+   "Infected": 2962,
+   "Recovered": 1386,
+   "Vaccinated": 320
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Mumbai",
+   "Infected": 120150,
+   "Recovered": 92659,
+   "Vaccinated": 375
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Mumbai Suburban",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 498
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Nagpur",
+   "Infected": 6950,
+   "Recovered": 2192,
+   "Vaccinated": 51
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Nanded",
+   "Infected": 2618,
+   "Recovered": 944,
+   "Vaccinated": 350
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Nandurbar",
+   "Infected": 727,
+   "Recovered": 482,
+   "Vaccinated": 234
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Nashik",
+   "Infected": 18054,
+   "Recovered": 11496,
+   "Vaccinated": 449
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Osmanabad",
+   "Infected": 1729,
+   "Recovered": 655,
+   "Vaccinated": 263
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Other State",
+   "Infected": 471,
+   "Recovered": 0,
+   "Vaccinated": 308
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Palghar",
+   "Infected": 17378,
+   "Recovered": 10683,
+   "Vaccinated": 467
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Parbhani",
+   "Infected": 817,
+   "Recovered": 414,
+   "Vaccinated": 450
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Pune",
+   "Infected": 104353,
+   "Recovered": 60857,
+   "Vaccinated": 270
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Raigad",
+   "Infected": 18875,
+   "Recovered": 13835,
+   "Vaccinated": 196
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Ratnagiri",
+   "Infected": 1995,
+   "Recovered": 1319,
+   "Vaccinated": 473
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Sangli",
+   "Infected": 3934,
+   "Recovered": 1445,
+   "Vaccinated": 148
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Satara",
+   "Infected": 5014,
+   "Recovered": 2998,
+   "Vaccinated": 124
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Sindhudurg",
+   "Infected": 433,
+   "Recovered": 310,
+   "Vaccinated": 266
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Solapur",
+   "Infected": 10565,
+   "Recovered": 5867,
+   "Vaccinated": 474
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Thane",
+   "Infected": 100875,
+   "Recovered": 70983,
+   "Vaccinated": 105
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Wardha",
+   "Infected": 252,
+   "Recovered": 154,
+   "Vaccinated": 420
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Washim",
+   "Infected": 780,
+   "Recovered": 490,
+   "Vaccinated": 457
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Yavatmal",
+   "Infected": 1252,
+   "Recovered": 746,
+   "Vaccinated": 485
+ },
+ {
+   "State": "Meghalaya",
+   "District": "East Garo Hills",
+   "Infected": 1,
+   "Recovered": 1,
+   "Vaccinated": 188
+ },
+ {
+   "State": "Meghalaya",
+   "District": "East Jaintia Hills",
+   "Infected": 19,
+   "Recovered": 2,
+   "Vaccinated": 141
+ },
+ {
+   "State": "Meghalaya",
+   "District": "East Khasi Hills",
+   "Infected": 753,
+   "Recovered": 253,
+   "Vaccinated": 321
+ },
+ {
+   "State": "Meghalaya",
+   "District": "North Garo Hills",
+   "Infected": 2,
+   "Recovered": 2,
+   "Vaccinated": 443
+ },
+ {
+   "State": "Meghalaya",
+   "District": "Ribhoi",
+   "Infected": 121,
+   "Recovered": 48,
+   "Vaccinated": 178
+ },
+ {
+   "State": "Meghalaya",
+   "District": "South Garo Hills",
+   "Infected": 5,
+   "Recovered": 3,
+   "Vaccinated": 122
+ },
+ {
+   "State": "Meghalaya",
+   "District": "South West Garo Hills",
+   "Infected": 10,
+   "Recovered": 8,
+   "Vaccinated": 344
+ },
+ {
+   "State": "Meghalaya",
+   "District": "South West Khasi Hills",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 288
+ },
+ {
+   "State": "Meghalaya",
+   "District": "West Garo Hills",
+   "Infected": 44,
+   "Recovered": 15,
+   "Vaccinated": 367
+ },
+ {
+   "State": "Meghalaya",
+   "District": "West Jaintia Hills",
+   "Infected": 23,
+   "Recovered": 6,
+   "Vaccinated": 497
+ },
+ {
+   "State": "Meghalaya",
+   "District": "West Khasi Hills",
+   "Infected": 12,
+   "Recovered": 7,
+   "Vaccinated": 162
+ },
+ {
+   "State": "Manipur",
+   "District": "CAPF Personnel",
+   "Infected": 175,
+   "Recovered": 0,
+   "Vaccinated": 188
+ },
+ {
+   "State": "Manipur",
+   "District": "Bishnupur",
+   "Infected": 97,
+   "Recovered": 58,
+   "Vaccinated": 240
+ },
+ {
+   "State": "Manipur",
+   "District": "Chandel",
+   "Infected": 47,
+   "Recovered": 4,
+   "Vaccinated": 204
+ },
+ {
+   "State": "Manipur",
+   "District": "Churachandpur",
+   "Infected": 309,
+   "Recovered": 58,
+   "Vaccinated": 145
+ },
+ {
+   "State": "Manipur",
+   "District": "Imphal East",
+   "Infected": 169,
+   "Recovered": 16,
+   "Vaccinated": 418
+ },
+ {
+   "State": "Manipur",
+   "District": "Imphal West",
+   "Infected": 496,
+   "Recovered": 52,
+   "Vaccinated": 71
+ },
+ {
+   "State": "Manipur",
+   "District": "Jiribam",
+   "Infected": 113,
+   "Recovered": 2,
+   "Vaccinated": 290
+ },
+ {
+   "State": "Manipur",
+   "District": "Kakching",
+   "Infected": 160,
+   "Recovered": 27,
+   "Vaccinated": 455
+ },
+ {
+   "State": "Manipur",
+   "District": "Kamjong",
+   "Infected": 143,
+   "Recovered": 17,
+   "Vaccinated": 134
+ },
+ {
+   "State": "Manipur",
+   "District": "Kangpokpi",
+   "Infected": 306,
+   "Recovered": 19,
+   "Vaccinated": 478
+ },
+ {
+   "State": "Manipur",
+   "District": "Noney",
+   "Infected": 25,
+   "Recovered": 18,
+   "Vaccinated": 479
+ },
+ {
+   "State": "Manipur",
+   "District": "Pherzawl",
+   "Infected": 32,
+   "Recovered": 15,
+   "Vaccinated": 159
+ },
+ {
+   "State": "Manipur",
+   "District": "Senapati",
+   "Infected": 243,
+   "Recovered": 21,
+   "Vaccinated": 304
+ },
+ {
+   "State": "Manipur",
+   "District": "Tamenglong",
+   "Infected": 231,
+   "Recovered": 32,
+   "Vaccinated": 197
+ },
+ {
+   "State": "Manipur",
+   "District": "Tengnoupal",
+   "Infected": 20,
+   "Recovered": 13,
+   "Vaccinated": 243
+ },
+ {
+   "State": "Manipur",
+   "District": "Thoubal",
+   "Infected": 358,
+   "Recovered": 23,
+   "Vaccinated": 333
+ },
+ {
+   "State": "Manipur",
+   "District": "Ukhrul",
+   "Infected": 265,
+   "Recovered": 18,
+   "Vaccinated": 238
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Agar Malwa",
+   "Infected": 101,
+   "Recovered": 74,
+   "Vaccinated": 114
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Alirajpur",
+   "Infected": 186,
+   "Recovered": 114,
+   "Vaccinated": 342
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Anuppur",
+   "Infected": 75,
+   "Recovered": 69,
+   "Vaccinated": 428
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Ashoknagar",
+   "Infected": 103,
+   "Recovered": 81,
+   "Vaccinated": 475
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Balaghat",
+   "Infected": 149,
+   "Recovered": 114,
+   "Vaccinated": 102
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Barwani",
+   "Infected": 829,
+   "Recovered": 478,
+   "Vaccinated": 96
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Betul",
+   "Infected": 278,
+   "Recovered": 203,
+   "Vaccinated": 115
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Bhind",
+   "Infected": 496,
+   "Recovered": 433,
+   "Vaccinated": 229
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Bhopal",
+   "Infected": 7270,
+   "Recovered": 5123,
+   "Vaccinated": 214
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Burhanpur",
+   "Infected": 489,
+   "Recovered": 444,
+   "Vaccinated": 478
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Chhatarpur",
+   "Infected": 376,
+   "Recovered": 321,
+   "Vaccinated": 286
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Chhindwara",
+   "Infected": 202,
+   "Recovered": 124,
+   "Vaccinated": 224
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Damoh",
+   "Infected": 274,
+   "Recovered": 146,
+   "Vaccinated": 259
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Datia",
+   "Infected": 239,
+   "Recovered": 203,
+   "Vaccinated": 481
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Dewas",
+   "Infected": 453,
+   "Recovered": 401,
+   "Vaccinated": 432
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Dhar",
+   "Infected": 474,
+   "Recovered": 344,
+   "Vaccinated": 114
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Dindori",
+   "Infected": 55,
+   "Recovered": 37,
+   "Vaccinated": 394
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Guna",
+   "Infected": 89,
+   "Recovered": 56,
+   "Vaccinated": 68
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Gwalior",
+   "Infected": 2748,
+   "Recovered": 2014,
+   "Vaccinated": 52
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Harda",
+   "Infected": 221,
+   "Recovered": 187,
+   "Vaccinated": 304
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Hoshangabad",
+   "Infected": 287,
+   "Recovered": 149,
+   "Vaccinated": 139
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Indore",
+   "Infected": 8014,
+   "Recovered": 5729,
+   "Vaccinated": 481
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Jabalpur",
+   "Infected": 1641,
+   "Recovered": 1097,
+   "Vaccinated": 494
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Jhabua",
+   "Infected": 183,
+   "Recovered": 108,
+   "Vaccinated": 186
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Katni",
+   "Infected": 187,
+   "Recovered": 135,
+   "Vaccinated": 163
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Khandwa",
+   "Infected": 688,
+   "Recovered": 574,
+   "Vaccinated": 90
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Khargone",
+   "Infected": 856,
+   "Recovered": 649,
+   "Vaccinated": 432
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Mandla",
+   "Infected": 45,
+   "Recovered": 19,
+   "Vaccinated": 492
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Mandsaur",
+   "Infected": 469,
+   "Recovered": 384,
+   "Vaccinated": 486
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Morena",
+   "Infected": 1694,
+   "Recovered": 1535,
+   "Vaccinated": 427
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Narsinghpur",
+   "Infected": 212,
+   "Recovered": 143,
+   "Vaccinated": 417
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Neemuch",
+   "Infected": 793,
+   "Recovered": 649,
+   "Vaccinated": 255
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Niwari",
+   "Infected": 56,
+   "Recovered": 35,
+   "Vaccinated": 304
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Other Region",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 444
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Panna",
+   "Infected": 111,
+   "Recovered": 90,
+   "Vaccinated": 459
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Raisen",
+   "Infected": 389,
+   "Recovered": 311,
+   "Vaccinated": 452
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Rajgarh",
+   "Infected": 389,
+   "Recovered": 231,
+   "Vaccinated": 426
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Ratlam",
+   "Infected": 498,
+   "Recovered": 395,
+   "Vaccinated": 150
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Rewa",
+   "Infected": 402,
+   "Recovered": 210,
+   "Vaccinated": 478
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Sagar",
+   "Infected": 736,
+   "Recovered": 568,
+   "Vaccinated": 305
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Satna",
+   "Infected": 214,
+   "Recovered": 139,
+   "Vaccinated": 281
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Sehore",
+   "Infected": 322,
+   "Recovered": 186,
+   "Vaccinated": 91
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Seoni",
+   "Infected": 52,
+   "Recovered": 37,
+   "Vaccinated": 150
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Shahdol",
+   "Infected": 89,
+   "Recovered": 59,
+   "Vaccinated": 375
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Shajapur",
+   "Infected": 306,
+   "Recovered": 265,
+   "Vaccinated": 143
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Sheopur",
+   "Infected": 253,
+   "Recovered": 215,
+   "Vaccinated": 405
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Shivpuri",
+   "Infected": 346,
+   "Recovered": 274,
+   "Vaccinated": 367
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Sidhi",
+   "Infected": 114,
+   "Recovered": 69,
+   "Vaccinated": 387
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Singrauli",
+   "Infected": 128,
+   "Recovered": 58,
+   "Vaccinated": 435
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Tikamgarh",
+   "Infected": 322,
+   "Recovered": 290,
+   "Vaccinated": 448
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Ujjain",
+   "Infected": 1251,
+   "Recovered": 1024,
+   "Vaccinated": 364
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Umaria",
+   "Infected": 46,
+   "Recovered": 34,
+   "Vaccinated": 148
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Vidisha",
+   "Infected": 364,
+   "Recovered": 275,
+   "Vaccinated": 296
+ },
+ {
+   "State": "Mizoram",
+   "District": "Aizawl",
+   "Infected": 327,
+   "Recovered": 126,
+   "Vaccinated": 118
+ },
+ {
+   "State": "Mizoram",
+   "District": "Champhai",
+   "Infected": 15,
+   "Recovered": 12,
+   "Vaccinated": 225
+ },
+ {
+   "State": "Mizoram",
+   "District": "Hnahthial",
+   "Infected": 1,
+   "Recovered": 0,
+   "Vaccinated": 85
+ },
+ {
+   "State": "Mizoram",
+   "District": "Khawzawl",
+   "Infected": 3,
+   "Recovered": 3,
+   "Vaccinated": 470
+ },
+ {
+   "State": "Mizoram",
+   "District": "Kolasib",
+   "Infected": 15,
+   "Recovered": 12,
+   "Vaccinated": 122
+ },
+ {
+   "State": "Mizoram",
+   "District": "Lawngtlai",
+   "Infected": 23,
+   "Recovered": 21,
+   "Vaccinated": 227
+ },
+ {
+   "State": "Mizoram",
+   "District": "Lunglei",
+   "Infected": 93,
+   "Recovered": 57,
+   "Vaccinated": 271
+ },
+ {
+   "State": "Mizoram",
+   "District": "Mamit",
+   "Infected": 21,
+   "Recovered": 21,
+   "Vaccinated": 444
+ },
+ {
+   "State": "Mizoram",
+   "District": "Saiha",
+   "Infected": 26,
+   "Recovered": 26,
+   "Vaccinated": 295
+ },
+ {
+   "State": "Mizoram",
+   "District": "Saitual",
+   "Infected": 4,
+   "Recovered": 3,
+   "Vaccinated": 419
+ },
+ {
+   "State": "Mizoram",
+   "District": "Serchhip",
+   "Infected": 10,
+   "Recovered": 7,
+   "Vaccinated": 467
+ },
+ {
+   "State": "Nagaland",
+   "District": "Others",
+   "Infected": 46,
+   "Recovered": 46,
+   "Vaccinated": 223
+ },
+ {
+   "State": "Nagaland",
+   "District": "Dimapur",
+   "Infected": 1250,
+   "Recovered": 153,
+   "Vaccinated": 166
+ },
+ {
+   "State": "Nagaland",
+   "District": "Kiphire",
+   "Infected": 4,
+   "Recovered": 4,
+   "Vaccinated": 389
+ },
+ {
+   "State": "Nagaland",
+   "District": "Kohima",
+   "Infected": 489,
+   "Recovered": 83,
+   "Vaccinated": 124
+ },
+ {
+   "State": "Nagaland",
+   "District": "Longleng",
+   "Infected": 5,
+   "Recovered": 5,
+   "Vaccinated": 300
+ },
+ {
+   "State": "Nagaland",
+   "District": "Mokokchung",
+   "Infected": 18,
+   "Recovered": 11,
+   "Vaccinated": 416
+ },
+ {
+   "State": "Nagaland",
+   "District": "Mon",
+   "Infected": 263,
+   "Recovered": 99,
+   "Vaccinated": 89
+ },
+ {
+   "State": "Nagaland",
+   "District": "Peren",
+   "Infected": 331,
+   "Recovered": 328,
+   "Vaccinated": 294
+ },
+ {
+   "State": "Nagaland",
+   "District": "Phek",
+   "Infected": 32,
+   "Recovered": 18,
+   "Vaccinated": 148
+ },
+ {
+   "State": "Nagaland",
+   "District": "Tuensang",
+   "Infected": 51,
+   "Recovered": 50,
+   "Vaccinated": 188
+ },
+ {
+   "State": "Nagaland",
+   "District": "Wokha",
+   "Infected": 23,
+   "Recovered": 11,
+   "Vaccinated": 156
+ },
+ {
+   "State": "Nagaland",
+   "District": "Zunheboto",
+   "Infected": 68,
+   "Recovered": 11,
+   "Vaccinated": 118
+ },
+ {
+   "State": "Odisha",
+   "District": "Others",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 454
+ },
+ {
+   "State": "Odisha",
+   "District": "Angul",
+   "Infected": 402,
+   "Recovered": 269,
+   "Vaccinated": 61
+ },
+ {
+   "State": "Odisha",
+   "District": "Balangir",
+   "Infected": 551,
+   "Recovered": 384,
+   "Vaccinated": 348
+ },
+ {
+   "State": "Odisha",
+   "District": "Balasore",
+   "Infected": 1176,
+   "Recovered": 881,
+   "Vaccinated": 467
+ },
+ {
+   "State": "Odisha",
+   "District": "Bargarh",
+   "Infected": 568,
+   "Recovered": 370,
+   "Vaccinated": 408
+ },
+ {
+   "State": "Odisha",
+   "District": "Bhadrak",
+   "Infected": 804,
+   "Recovered": 590,
+   "Vaccinated": 368
+ },
+ {
+   "State": "Odisha",
+   "District": "Boudh",
+   "Infected": 162,
+   "Recovered": 132,
+   "Vaccinated": 118
+ },
+ {
+   "State": "Odisha",
+   "District": "Cuttack",
+   "Infected": 2731,
+   "Recovered": 1768,
+   "Vaccinated": 384
+ },
+ {
+   "State": "Odisha",
+   "District": "Deogarh",
+   "Infected": 96,
+   "Recovered": 83,
+   "Vaccinated": 498
+ },
+ {
+   "State": "Odisha",
+   "District": "Dhenkanal",
+   "Infected": 452,
+   "Recovered": 201,
+   "Vaccinated": 360
+ },
+ {
+   "State": "Odisha",
+   "District": "Gajapati",
+   "Infected": 1834,
+   "Recovered": 1163,
+   "Vaccinated": 258
+ },
+ {
+   "State": "Odisha",
+   "District": "Ganjam",
+   "Infected": 12080,
+   "Recovered": 8911,
+   "Vaccinated": 407
+ },
+ {
+   "State": "Odisha",
+   "District": "Jagatsinghpur",
+   "Infected": 821,
+   "Recovered": 672,
+   "Vaccinated": 124
+ },
+ {
+   "State": "Odisha",
+   "District": "Jajpur",
+   "Infected": 1467,
+   "Recovered": 1196,
+   "Vaccinated": 425
+ },
+ {
+   "State": "Odisha",
+   "District": "Jharsuguda",
+   "Infected": 353,
+   "Recovered": 301,
+   "Vaccinated": 267
+ },
+ {
+   "State": "Odisha",
+   "District": "Kalahandi",
+   "Infected": 349,
+   "Recovered": 147,
+   "Vaccinated": 156
+ },
+ {
+   "State": "Odisha",
+   "District": "Kandhamal",
+   "Infected": 772,
+   "Recovered": 442,
+   "Vaccinated": 485
+ },
+ {
+   "State": "Odisha",
+   "District": "Kendrapara",
+   "Infected": 601,
+   "Recovered": 453,
+   "Vaccinated": 434
+ },
+ {
+   "State": "Odisha",
+   "District": "Kendujhar",
+   "Infected": 992,
+   "Recovered": 722,
+   "Vaccinated": 392
+ },
+ {
+   "State": "Odisha",
+   "District": "Khordha",
+   "Infected": 5531,
+   "Recovered": 2615,
+   "Vaccinated": 281
+ },
+ {
+   "State": "Odisha",
+   "District": "Koraput",
+   "Infected": 1047,
+   "Recovered": 502,
+   "Vaccinated": 184
+ },
+ {
+   "State": "Odisha",
+   "District": "Malkangiri",
+   "Infected": 773,
+   "Recovered": 411,
+   "Vaccinated": 485
+ },
+ {
+   "State": "Odisha",
+   "District": "Mayurbhanj",
+   "Infected": 788,
+   "Recovered": 579,
+   "Vaccinated": 463
+ },
+ {
+   "State": "Odisha",
+   "District": "Nabarangapur",
+   "Infected": 331,
+   "Recovered": 252,
+   "Vaccinated": 325
+ },
+ {
+   "State": "Odisha",
+   "District": "Nayagarh",
+   "Infected": 802,
+   "Recovered": 525,
+   "Vaccinated": 446
+ },
+ {
+   "State": "Odisha",
+   "District": "Nuapada",
+   "Infected": 161,
+   "Recovered": 125,
+   "Vaccinated": 493
+ },
+ {
+   "State": "Odisha",
+   "District": "Puri",
+   "Infected": 1059,
+   "Recovered": 682,
+   "Vaccinated": 418
+ },
+ {
+   "State": "Odisha",
+   "District": "Rayagada",
+   "Infected": 1173,
+   "Recovered": 801,
+   "Vaccinated": 362
+ },
+ {
+   "State": "Odisha",
+   "District": "Sambalpur",
+   "Infected": 836,
+   "Recovered": 364,
+   "Vaccinated": 318
+ },
+ {
+   "State": "Odisha",
+   "District": "Subarnapur",
+   "Infected": 123,
+   "Recovered": 89,
+   "Vaccinated": 348
+ },
+ {
+   "State": "Odisha",
+   "District": "Sundargarh",
+   "Infected": 1882,
+   "Recovered": 1258,
+   "Vaccinated": 59
+ },
+ {
+   "State": "Punjab",
+   "District": "Amritsar",
+   "Infected": 2137,
+   "Recovered": 1576,
+   "Vaccinated": 433
+ },
+ {
+   "State": "Punjab",
+   "District": "Barnala",
+   "Infected": 384,
+   "Recovered": 105,
+   "Vaccinated": 140
+ },
+ {
+   "State": "Punjab",
+   "District": "Bathinda",
+   "Infected": 711,
+   "Recovered": 307,
+   "Vaccinated": 433
+ },
+ {
+   "State": "Punjab",
+   "District": "Faridkot",
+   "Infected": 354,
+   "Recovered": 277,
+   "Vaccinated": 241
+ },
+ {
+   "State": "Punjab",
+   "District": "Fatehgarh Sahib",
+   "Infected": 424,
+   "Recovered": 315,
+   "Vaccinated": 238
+ },
+ {
+   "State": "Punjab",
+   "District": "Fazilka",
+   "Infected": 343,
+   "Recovered": 253,
+   "Vaccinated": 125
+ },
+ {
+   "State": "Punjab",
+   "District": "Ferozepur",
+   "Infected": 617,
+   "Recovered": 262,
+   "Vaccinated": 119
+ },
+ {
+   "State": "Punjab",
+   "District": "Gurdaspur",
+   "Infected": 723,
+   "Recovered": 501,
+   "Vaccinated": 258
+ },
+ {
+   "State": "Punjab",
+   "District": "Hoshiarpur",
+   "Infected": 586,
+   "Recovered": 520,
+   "Vaccinated": 278
+ },
+ {
+   "State": "Punjab",
+   "District": "Jalandhar",
+   "Infected": 2845,
+   "Recovered": 1796,
+   "Vaccinated": 303
+ },
+ {
+   "State": "Punjab",
+   "District": "Kapurthala",
+   "Infected": 354,
+   "Recovered": 191,
+   "Vaccinated": 155
+ },
+ {
+   "State": "Punjab",
+   "District": "Ludhiana",
+   "Infected": 4426,
+   "Recovered": 2821,
+   "Vaccinated": 223
+ },
+ {
+   "State": "Punjab",
+   "District": "Mansa",
+   "Infected": 165,
+   "Recovered": 101,
+   "Vaccinated": 79
+ },
+ {
+   "State": "Punjab",
+   "District": "Moga",
+   "Infected": 515,
+   "Recovered": 283,
+   "Vaccinated": 327
+ },
+ {
+   "State": "Punjab",
+   "District": "Pathankot",
+   "Infected": 485,
+   "Recovered": 323,
+   "Vaccinated": 485
+ },
+ {
+   "State": "Punjab",
+   "District": "Patiala",
+   "Infected": 2258,
+   "Recovered": 1484,
+   "Vaccinated": 146
+ },
+ {
+   "State": "Punjab",
+   "District": "Rupnagar",
+   "Infected": 286,
+   "Recovered": 228,
+   "Vaccinated": 88
+ },
+ {
+   "State": "Punjab",
+   "District": "S.A.S. Nagar",
+   "Infected": 1080,
+   "Recovered": 592,
+   "Vaccinated": 113
+ },
+ {
+   "State": "Punjab",
+   "District": "Sangrur",
+   "Infected": 1194,
+   "Recovered": 968,
+   "Vaccinated": 287
+ },
+ {
+   "State": "Punjab",
+   "District": "Shahid Bhagat Singh Nagar",
+   "Infected": 324,
+   "Recovered": 280,
+   "Vaccinated": 210
+ },
+ {
+   "State": "Punjab",
+   "District": "Sri Muktsar Sahib",
+   "Infected": 266,
+   "Recovered": 228,
+   "Vaccinated": 237
+ },
+ {
+   "State": "Punjab",
+   "District": "Tarn Taran",
+   "Infected": 414,
+   "Recovered": 248,
+   "Vaccinated": 185
+ },
+ {
+   "State": "Puducherry",
+   "District": "Karaikal",
+   "Infected": 249,
+   "Recovered": 150,
+   "Vaccinated": 143
+ },
+ {
+   "State": "Puducherry",
+   "District": "Mahe",
+   "Infected": 27,
+   "Recovered": 23,
+   "Vaccinated": 490
+ },
+ {
+   "State": "Puducherry",
+   "District": "Puducherry",
+   "Infected": 4003,
+   "Recovered": 2465,
+   "Vaccinated": 141
+ },
+ {
+   "State": "Puducherry",
+   "District": "Yanam",
+   "Infected": 342,
+   "Recovered": 170,
+   "Vaccinated": 278
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Ajmer",
+   "Infected": 2305,
+   "Recovered": 1717,
+   "Vaccinated": 399
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Alwar",
+   "Infected": 4843,
+   "Recovered": 2264,
+   "Vaccinated": 192
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Banswara",
+   "Infected": 240,
+   "Recovered": 154,
+   "Vaccinated": 471
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Baran",
+   "Infected": 227,
+   "Recovered": 107,
+   "Vaccinated": 267
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Barmer",
+   "Infected": 1618,
+   "Recovered": 1242,
+   "Vaccinated": 326
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Bharatpur",
+   "Infected": 2798,
+   "Recovered": 2355,
+   "Vaccinated": 460
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Bhilwara",
+   "Infected": 893,
+   "Recovered": 384,
+   "Vaccinated": 176
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Bikaner",
+   "Infected": 2351,
+   "Recovered": 1670,
+   "Vaccinated": 116
+ },
+ {
+   "State": "Rajasthan",
+   "District": "BSF Camp",
+   "Infected": 79,
+   "Recovered": 52,
+   "Vaccinated": 198
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Bundi",
+   "Infected": 250,
+   "Recovered": 84,
+   "Vaccinated": 321
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Chittorgarh",
+   "Infected": 354,
+   "Recovered": 230,
+   "Vaccinated": 60
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Churu",
+   "Infected": 716,
+   "Recovered": 542,
+   "Vaccinated": 74
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Dausa",
+   "Infected": 341,
+   "Recovered": 305,
+   "Vaccinated": 284
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Dholpur",
+   "Infected": 1409,
+   "Recovered": 1112,
+   "Vaccinated": 469
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Dungarpur",
+   "Infected": 680,
+   "Recovered": 564,
+   "Vaccinated": 498
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Evacuees",
+   "Infected": 61,
+   "Recovered": 61,
+   "Vaccinated": 107
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Ganganagar",
+   "Infected": 314,
+   "Recovered": 160,
+   "Vaccinated": 281
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Hanumangarh",
+   "Infected": 237,
+   "Recovered": 186,
+   "Vaccinated": 362
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Italians",
+   "Infected": 2,
+   "Recovered": 2,
+   "Vaccinated": 460
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jaipur",
+   "Infected": 6146,
+   "Recovered": 4270,
+   "Vaccinated": 323
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jaisalmer",
+   "Infected": 217,
+   "Recovered": 169,
+   "Vaccinated": 91
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jalore",
+   "Infected": 1228,
+   "Recovered": 1127,
+   "Vaccinated": 130
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jhalawar",
+   "Infected": 719,
+   "Recovered": 508,
+   "Vaccinated": 253
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jhunjhunu",
+   "Infected": 656,
+   "Recovered": 594,
+   "Vaccinated": 441
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Jodhpur",
+   "Infected": 7623,
+   "Recovered": 5949,
+   "Vaccinated": 133
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Karauli",
+   "Infected": 376,
+   "Recovered": 253,
+   "Vaccinated": 350
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Kota",
+   "Infected": 2466,
+   "Recovered": 1192,
+   "Vaccinated": 175
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Nagaur",
+   "Infected": 1596,
+   "Recovered": 1327,
+   "Vaccinated": 199
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Other State",
+   "Infected": 189,
+   "Recovered": 54,
+   "Vaccinated": 186
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Pali",
+   "Infected": 2891,
+   "Recovered": 2411,
+   "Vaccinated": 292
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Pratapgarh",
+   "Infected": 194,
+   "Recovered": 161,
+   "Vaccinated": 106
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Rajsamand",
+   "Infected": 698,
+   "Recovered": 585,
+   "Vaccinated": 326
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Sawai Madhopur",
+   "Infected": 280,
+   "Recovered": 157,
+   "Vaccinated": 155
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Sikar",
+   "Infected": 1223,
+   "Recovered": 917,
+   "Vaccinated": 228
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Sirohi",
+   "Infected": 912,
+   "Recovered": 807,
+   "Vaccinated": 201
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Tonk",
+   "Infected": 346,
+   "Recovered": 284,
+   "Vaccinated": 324
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Udaipur",
+   "Infected": 1518,
+   "Recovered": 1175,
+   "Vaccinated": 162
+ },
+ {
+   "State": "Sikkim",
+   "District": "East Sikkim",
+   "Infected": 613,
+   "Recovered": 214,
+   "Vaccinated": 211
+ },
+ {
+   "State": "Sikkim",
+   "District": "North Sikkim",
+   "Infected": 1,
+   "Recovered": 1,
+   "Vaccinated": 280
+ },
+ {
+   "State": "Sikkim",
+   "District": "South Sikkim",
+   "Infected": 144,
+   "Recovered": 73,
+   "Vaccinated": 70
+ },
+ {
+   "State": "Sikkim",
+   "District": "West Sikkim",
+   "Infected": 42,
+   "Recovered": 15,
+   "Vaccinated": 443
+ },
+ {
+   "State": "Telangana",
+   "District": "Foreign Evacuees",
+   "Infected": 33,
+   "Recovered": 0,
+   "Vaccinated": 188
+ },
+ {
+   "State": "Telangana",
+   "District": "Other State",
+   "Infected": 250,
+   "Recovered": 0,
+   "Vaccinated": 355
+ },
+ {
+   "State": "Telangana",
+   "District": "Adilabad",
+   "Infected": 360,
+   "Recovered": 15,
+   "Vaccinated": 178
+ },
+ {
+   "State": "Telangana",
+   "District": "Bhadradri Kothagudem",
+   "Infected": 477,
+   "Recovered": 4,
+   "Vaccinated": 117
+ },
+ {
+   "State": "Telangana",
+   "District": "Hyderabad",
+   "Infected": 41449,
+   "Recovered": 305,
+   "Vaccinated": 286
+ },
+ {
+   "State": "Telangana",
+   "District": "Jagtial",
+   "Infected": 347,
+   "Recovered": 2,
+   "Vaccinated": 210
+ },
+ {
+   "State": "Telangana",
+   "District": "Jangaon",
+   "Infected": 385,
+   "Recovered": 1,
+   "Vaccinated": 340
+ },
+ {
+   "State": "Telangana",
+   "District": "Jayashankar Bhupalapally",
+   "Infected": 348,
+   "Recovered": 0,
+   "Vaccinated": 488
+ },
+ {
+   "State": "Telangana",
+   "District": "Jogulamba Gadwal",
+   "Infected": 558,
+   "Recovered": 25,
+   "Vaccinated": 104
+ },
+ {
+   "State": "Telangana",
+   "District": "Kamareddy",
+   "Infected": 747,
+   "Recovered": 8,
+   "Vaccinated": 195
+ },
+ {
+   "State": "Telangana",
+   "District": "Karimnagar",
+   "Infected": 2019,
+   "Recovered": 16,
+   "Vaccinated": 373
+ },
+ {
+   "State": "Telangana",
+   "District": "Khammam",
+   "Infected": 794,
+   "Recovered": 3,
+   "Vaccinated": 105
+ },
+ {
+   "State": "Telangana",
+   "District": "Komaram Bheem",
+   "Infected": 92,
+   "Recovered": 2,
+   "Vaccinated": 202
+ },
+ {
+   "State": "Telangana",
+   "District": "Mahabubabad",
+   "Infected": 595,
+   "Recovered": 1,
+   "Vaccinated": 119
+ },
+ {
+   "State": "Telangana",
+   "District": "Mahabubnagar",
+   "Infected": 861,
+   "Recovered": 8,
+   "Vaccinated": 445
+ },
+ {
+   "State": "Telangana",
+   "District": "Mancherial",
+   "Infected": 476,
+   "Recovered": 0,
+   "Vaccinated": 82
+ },
+ {
+   "State": "Telangana",
+   "District": "Medak",
+   "Infected": 660,
+   "Recovered": 4,
+   "Vaccinated": 94
+ },
+ {
+   "State": "Telangana",
+   "District": "Medchal Malkajgiri",
+   "Infected": 4069,
+   "Recovered": 9,
+   "Vaccinated": 491
+ },
+ {
+   "State": "Telangana",
+   "District": "Mulugu",
+   "Infected": 307,
+   "Recovered": 2,
+   "Vaccinated": 352
+ },
+ {
+   "State": "Telangana",
+   "District": "Nagarkurnool",
+   "Infected": 553,
+   "Recovered": 2,
+   "Vaccinated": 138
+ },
+ {
+   "State": "Telangana",
+   "District": "Nalgonda",
+   "Infected": 1217,
+   "Recovered": 12,
+   "Vaccinated": 397
+ },
+ {
+   "State": "Telangana",
+   "District": "Narayanpet",
+   "Infected": 127,
+   "Recovered": 0,
+   "Vaccinated": 443
+ },
+ {
+   "State": "Telangana",
+   "District": "Nirmal",
+   "Infected": 160,
+   "Recovered": 13,
+   "Vaccinated": 435
+ },
+ {
+   "State": "Telangana",
+   "District": "Nizamabad",
+   "Infected": 1215,
+   "Recovered": 30,
+   "Vaccinated": 487
+ },
+ {
+   "State": "Telangana",
+   "District": "Peddapalli",
+   "Infected": 700,
+   "Recovered": 1,
+   "Vaccinated": 431
+ },
+ {
+   "State": "Telangana",
+   "District": "Rajanna Sircilla",
+   "Infected": 594,
+   "Recovered": 2,
+   "Vaccinated": 491
+ },
+ {
+   "State": "Telangana",
+   "District": "Ranga Reddy",
+   "Infected": 6361,
+   "Recovered": 17,
+   "Vaccinated": 426
+ },
+ {
+   "State": "Telangana",
+   "District": "Sangareddy",
+   "Infected": 1872,
+   "Recovered": 6,
+   "Vaccinated": 408
+ },
+ {
+   "State": "Telangana",
+   "District": "Siddipet",
+   "Infected": 382,
+   "Recovered": 1,
+   "Vaccinated": 77
+ },
+ {
+   "State": "Telangana",
+   "District": "Suryapet",
+   "Infected": 743,
+   "Recovered": 24,
+   "Vaccinated": 323
+ },
+ {
+   "State": "Telangana",
+   "District": "Vikarabad",
+   "Infected": 328,
+   "Recovered": 15,
+   "Vaccinated": 389
+ },
+ {
+   "State": "Telangana",
+   "District": "Wanaparthy",
+   "Infected": 353,
+   "Recovered": 0,
+   "Vaccinated": 479
+ },
+ {
+   "State": "Telangana",
+   "District": "Warangal Rural",
+   "Infected": 621,
+   "Recovered": 0,
+   "Vaccinated": 370
+ },
+ {
+   "State": "Telangana",
+   "District": "Warangal Urban",
+   "Infected": 2262,
+   "Recovered": 23,
+   "Vaccinated": 441
+ },
+ {
+   "State": "Telangana",
+   "District": "Yadadri Bhuvanagiri",
+   "Infected": 278,
+   "Recovered": 0,
+   "Vaccinated": 206
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Railway Quarantine",
+   "Infected": 426,
+   "Recovered": 424,
+   "Vaccinated": 277
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Airport Quarantine",
+   "Infected": 1527,
+   "Recovered": 1199,
+   "Vaccinated": 154
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Other State",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 142
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Ariyalur",
+   "Infected": 1154,
+   "Recovered": 926,
+   "Vaccinated": 53
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Chengalpattu",
+   "Infected": 16897,
+   "Recovered": 13969,
+   "Vaccinated": 107
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Chennai",
+   "Infected": 106096,
+   "Recovered": 92128,
+   "Vaccinated": 96
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Coimbatore",
+   "Infected": 5997,
+   "Recovered": 4322,
+   "Vaccinated": 187
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Cuddalore",
+   "Infected": 4232,
+   "Recovered": 2271,
+   "Vaccinated": 209
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Dharmapuri",
+   "Infected": 815,
+   "Recovered": 722,
+   "Vaccinated": 147
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Dindigul",
+   "Infected": 3331,
+   "Recovered": 2707,
+   "Vaccinated": 263
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Erode",
+   "Infected": 888,
+   "Recovered": 636,
+   "Vaccinated": 146
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Kallakurichi",
+   "Infected": 4131,
+   "Recovered": 3274,
+   "Vaccinated": 276
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Kancheepuram",
+   "Infected": 10993,
+   "Recovered": 7984,
+   "Vaccinated": 359
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Kanyakumari",
+   "Infected": 5829,
+   "Recovered": 3833,
+   "Vaccinated": 79
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Karur",
+   "Infected": 680,
+   "Recovered": 351,
+   "Vaccinated": 387
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Krishnagiri",
+   "Infected": 1263,
+   "Recovered": 798,
+   "Vaccinated": 462
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Madurai",
+   "Infected": 11689,
+   "Recovered": 9549,
+   "Vaccinated": 396
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Nagapattinam",
+   "Infected": 921,
+   "Recovered": 520,
+   "Vaccinated": 84
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Namakkal",
+   "Infected": 890,
+   "Recovered": 517,
+   "Vaccinated": 105
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Nilgiris",
+   "Infected": 919,
+   "Recovered": 756,
+   "Vaccinated": 439
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Perambalur",
+   "Infected": 572,
+   "Recovered": 421,
+   "Vaccinated": 331
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Pudukkottai",
+   "Infected": 2755,
+   "Recovered": 1901,
+   "Vaccinated": 91
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Ramanathapuram",
+   "Infected": 3503,
+   "Recovered": 3043,
+   "Vaccinated": 366
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Ranipet",
+   "Infected": 6342,
+   "Recovered": 4567,
+   "Vaccinated": 302
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Salem",
+   "Infected": 4251,
+   "Recovered": 3099,
+   "Vaccinated": 434
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Sivaganga",
+   "Infected": 2768,
+   "Recovered": 2253,
+   "Vaccinated": 149
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tenkasi",
+   "Infected": 2629,
+   "Recovered": 1720,
+   "Vaccinated": 172
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Thanjavur",
+   "Infected": 3484,
+   "Recovered": 2567,
+   "Vaccinated": 291
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Theni",
+   "Infected": 6836,
+   "Recovered": 4068,
+   "Vaccinated": 221
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Thiruvallur",
+   "Infected": 15890,
+   "Recovered": 12153,
+   "Vaccinated": 145
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Thiruvarur",
+   "Infected": 1874,
+   "Recovered": 1681,
+   "Vaccinated": 288
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Thoothukkudi",
+   "Infected": 8450,
+   "Recovered": 6557,
+   "Vaccinated": 139
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tiruchirappalli",
+   "Infected": 4834,
+   "Recovered": 3494,
+   "Vaccinated": 75
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tirunelveli",
+   "Infected": 6071,
+   "Recovered": 3732,
+   "Vaccinated": 85
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tirupathur",
+   "Infected": 1436,
+   "Recovered": 922,
+   "Vaccinated": 76
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tiruppur",
+   "Infected": 1059,
+   "Recovered": 712,
+   "Vaccinated": 250
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Tiruvannamalai",
+   "Infected": 7058,
+   "Recovered": 4982,
+   "Vaccinated": 174
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Vellore",
+   "Infected": 6897,
+   "Recovered": 5440,
+   "Vaccinated": 204
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Viluppuram",
+   "Infected": 4316,
+   "Recovered": 3473,
+   "Vaccinated": 334
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Virudhunagar",
+   "Infected": 9441,
+   "Recovered": 7416,
+   "Vaccinated": 362
+ },
+ {
+   "State": "Tripura",
+   "District": "Dhalai",
+   "Infected": 646,
+   "Recovered": 585,
+   "Vaccinated": 455
+ },
+ {
+   "State": "Tripura",
+   "District": "Gomati",
+   "Infected": 962,
+   "Recovered": 588,
+   "Vaccinated": 162
+ },
+ {
+   "State": "Tripura",
+   "District": "Khowai",
+   "Infected": 480,
+   "Recovered": 313,
+   "Vaccinated": 99
+ },
+ {
+   "State": "Tripura",
+   "District": "North Tripura",
+   "Infected": 502,
+   "Recovered": 304,
+   "Vaccinated": 250
+ },
+ {
+   "State": "Tripura",
+   "District": "Sipahijala",
+   "Infected": 1208,
+   "Recovered": 927,
+   "Vaccinated": 224
+ },
+ {
+   "State": "Tripura",
+   "District": "South Tripura",
+   "Infected": 374,
+   "Recovered": 255,
+   "Vaccinated": 364
+ },
+ {
+   "State": "Tripura",
+   "District": "Unokoti",
+   "Infected": 136,
+   "Recovered": 114,
+   "Vaccinated": 266
+ },
+ {
+   "State": "Tripura",
+   "District": "West Tripura",
+   "Infected": 1432,
+   "Recovered": 707,
+   "Vaccinated": 411
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Agra",
+   "Infected": 1985,
+   "Recovered": 1592,
+   "Vaccinated": 431
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Aligarh",
+   "Infected": 1808,
+   "Recovered": 732,
+   "Vaccinated": 119
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ambedkar Nagar",
+   "Infected": 346,
+   "Recovered": 195,
+   "Vaccinated": 154
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Amethi",
+   "Infected": 529,
+   "Recovered": 416,
+   "Vaccinated": 401
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Amroha",
+   "Infected": 780,
+   "Recovered": 413,
+   "Vaccinated": 461
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Auraiya",
+   "Infected": 536,
+   "Recovered": 304,
+   "Vaccinated": 380
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ayodhya",
+   "Infected": 1448,
+   "Recovered": 841,
+   "Vaccinated": 55
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Azamgarh",
+   "Infected": 1413,
+   "Recovered": 546,
+   "Vaccinated": 499
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Baghpat",
+   "Infected": 645,
+   "Recovered": 563,
+   "Vaccinated": 369
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bahraich",
+   "Infected": 826,
+   "Recovered": 345,
+   "Vaccinated": 280
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ballia",
+   "Infected": 2152,
+   "Recovered": 1093,
+   "Vaccinated": 85
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Balrampur",
+   "Infected": 340,
+   "Recovered": 186,
+   "Vaccinated": 166
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Banda",
+   "Infected": 340,
+   "Recovered": 234,
+   "Vaccinated": 282
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Barabanki",
+   "Infected": 1463,
+   "Recovered": 940,
+   "Vaccinated": 174
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bareilly",
+   "Infected": 3085,
+   "Recovered": 1351,
+   "Vaccinated": 226
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Basti",
+   "Infected": 1081,
+   "Recovered": 651,
+   "Vaccinated": 477
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bhadohi",
+   "Infected": 686,
+   "Recovered": 319,
+   "Vaccinated": 325
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bijnor",
+   "Infected": 803,
+   "Recovered": 631,
+   "Vaccinated": 215
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Budaun",
+   "Infected": 600,
+   "Recovered": 353,
+   "Vaccinated": 358
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Bulandshahr",
+   "Infected": 1478,
+   "Recovered": 1194,
+   "Vaccinated": 355
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Chandauli",
+   "Infected": 1115,
+   "Recovered": 770,
+   "Vaccinated": 146
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Chitrakoot",
+   "Infected": 273,
+   "Recovered": 146,
+   "Vaccinated": 131
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Deoria",
+   "Infected": 1614,
+   "Recovered": 838,
+   "Vaccinated": 75
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Etah",
+   "Infected": 440,
+   "Recovered": 209,
+   "Vaccinated": 351
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Etawah",
+   "Infected": 922,
+   "Recovered": 539,
+   "Vaccinated": 147
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Farrukhabad",
+   "Infected": 586,
+   "Recovered": 383,
+   "Vaccinated": 273
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Fatehpur",
+   "Infected": 653,
+   "Recovered": 392,
+   "Vaccinated": 175
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Firozabad",
+   "Infected": 822,
+   "Recovered": 633,
+   "Vaccinated": 376
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Gautam Buddha Nagar",
+   "Infected": 5748,
+   "Recovered": 4786,
+   "Vaccinated": 236
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ghaziabad",
+   "Infected": 5573,
+   "Recovered": 4475,
+   "Vaccinated": 237
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Ghazipur",
+   "Infected": 1436,
+   "Recovered": 883,
+   "Vaccinated": 407
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Gonda",
+   "Infected": 978,
+   "Recovered": 452,
+   "Vaccinated": 65
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Gorakhpur",
+   "Infected": 2898,
+   "Recovered": 1535,
+   "Vaccinated": 385
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Hamirpur",
+   "Infected": 346,
+   "Recovered": 248,
+   "Vaccinated": 478
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Hapur",
+   "Infected": 1379,
+   "Recovered": 1141,
+   "Vaccinated": 214
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Hardoi",
+   "Infected": 1340,
+   "Recovered": 790,
+   "Vaccinated": 444
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Hathras",
+   "Infected": 319,
+   "Recovered": 244,
+   "Vaccinated": 118
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Jalaun",
+   "Infected": 717,
+   "Recovered": 267,
+   "Vaccinated": 407
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Jaunpur",
+   "Infected": 2509,
+   "Recovered": 1222,
+   "Vaccinated": 373
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Jhansi",
+   "Infected": 2617,
+   "Recovered": 1924,
+   "Vaccinated": 289
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kannauj",
+   "Infected": 1003,
+   "Recovered": 635,
+   "Vaccinated": 324
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kanpur Dehat",
+   "Infected": 384,
+   "Recovered": 147,
+   "Vaccinated": 404
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kanpur Nagar",
+   "Infected": 7343,
+   "Recovered": 2648,
+   "Vaccinated": 463
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kasganj",
+   "Infected": 482,
+   "Recovered": 341,
+   "Vaccinated": 495
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kaushambi",
+   "Infected": 418,
+   "Recovered": 327,
+   "Vaccinated": 491
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Kushinagar",
+   "Infected": 1017,
+   "Recovered": 462,
+   "Vaccinated": 299
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Lakhimpur Kheri",
+   "Infected": 657,
+   "Recovered": 318,
+   "Vaccinated": 475
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Lalitpur",
+   "Infected": 480,
+   "Recovered": 47,
+   "Vaccinated": 107
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Lucknow",
+   "Infected": 10805,
+   "Recovered": 5874,
+   "Vaccinated": 309
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Maharajganj",
+   "Infected": 1010,
+   "Recovered": 559,
+   "Vaccinated": 193
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mahoba",
+   "Infected": 309,
+   "Recovered": 226,
+   "Vaccinated": 143
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mainpuri",
+   "Infected": 806,
+   "Recovered": 660,
+   "Vaccinated": 132
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mathura",
+   "Infected": 1098,
+   "Recovered": 704,
+   "Vaccinated": 405
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mau",
+   "Infected": 630,
+   "Recovered": 367,
+   "Vaccinated": 216
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Meerut",
+   "Infected": 2490,
+   "Recovered": 1862,
+   "Vaccinated": 336
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Mirzapur",
+   "Infected": 911,
+   "Recovered": 400,
+   "Vaccinated": 340
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Moradabad",
+   "Infected": 2271,
+   "Recovered": 1391,
+   "Vaccinated": 436
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Muzaffarnagar",
+   "Infected": 943,
+   "Recovered": 649,
+   "Vaccinated": 200
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Pilibhit",
+   "Infected": 964,
+   "Recovered": 470,
+   "Vaccinated": 189
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Pratapgarh",
+   "Infected": 646,
+   "Recovered": 227,
+   "Vaccinated": 278
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Prayagraj",
+   "Infected": 3441,
+   "Recovered": 1536,
+   "Vaccinated": 336
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Rae Bareli",
+   "Infected": 735,
+   "Recovered": 410,
+   "Vaccinated": 372
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Rampur",
+   "Infected": 1439,
+   "Recovered": 702,
+   "Vaccinated": 241
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Saharanpur",
+   "Infected": 1320,
+   "Recovered": 785,
+   "Vaccinated": 103
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sambhal",
+   "Infected": 1091,
+   "Recovered": 893,
+   "Vaccinated": 140
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sant Kabir Nagar",
+   "Infected": 1232,
+   "Recovered": 782,
+   "Vaccinated": 90
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Shahjahanpur",
+   "Infected": 1416,
+   "Recovered": 584,
+   "Vaccinated": 344
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Shamli",
+   "Infected": 518,
+   "Recovered": 376,
+   "Vaccinated": 306
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Shrawasti",
+   "Infected": 221,
+   "Recovered": 130,
+   "Vaccinated": 491
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Siddharthnagar",
+   "Infected": 1011,
+   "Recovered": 605,
+   "Vaccinated": 88
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sitapur",
+   "Infected": 676,
+   "Recovered": 200,
+   "Vaccinated": 190
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sonbhadra",
+   "Infected": 770,
+   "Recovered": 399,
+   "Vaccinated": 171
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Sultanpur",
+   "Infected": 954,
+   "Recovered": 518,
+   "Vaccinated": 445
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Unnao",
+   "Infected": 1023,
+   "Recovered": 520,
+   "Vaccinated": 61
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Varanasi",
+   "Infected": 3831,
+   "Recovered": 1872,
+   "Vaccinated": 145
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Almora",
+   "Infected": 322,
+   "Recovered": 283,
+   "Vaccinated": 180
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Bageshwar",
+   "Infected": 155,
+   "Recovered": 98,
+   "Vaccinated": 452
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Chamoli",
+   "Infected": 110,
+   "Recovered": 85,
+   "Vaccinated": 222
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Champawat",
+   "Infected": 136,
+   "Recovered": 82,
+   "Vaccinated": 88
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Dehradun",
+   "Infected": 1938,
+   "Recovered": 1411,
+   "Vaccinated": 214
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Haridwar",
+   "Infected": 1739,
+   "Recovered": 925,
+   "Vaccinated": 199
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Nainital",
+   "Infected": 1372,
+   "Recovered": 787,
+   "Vaccinated": 426
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Pauri Garhwal",
+   "Infected": 239,
+   "Recovered": 191,
+   "Vaccinated": 411
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Pithoragarh",
+   "Infected": 184,
+   "Recovered": 85,
+   "Vaccinated": 57
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Rudraprayag",
+   "Infected": 87,
+   "Recovered": 70,
+   "Vaccinated": 120
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Tehri Garhwal",
+   "Infected": 560,
+   "Recovered": 510,
+   "Vaccinated": 381
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Udham Singh Nagar",
+   "Infected": 1448,
+   "Recovered": 725,
+   "Vaccinated": 158
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Uttarkashi",
+   "Infected": 333,
+   "Recovered": 175,
+   "Vaccinated": 206
+ },
+ {
+   "State": "West Bengal",
+   "District": "Alipurduar",
+   "Infected": 546,
+   "Recovered": 323,
+   "Vaccinated": 282
+ },
+ {
+   "State": "West Bengal",
+   "District": "Bankura",
+   "Infected": 906,
+   "Recovered": 663,
+   "Vaccinated": 52
+ },
+ {
+   "State": "West Bengal",
+   "District": "Birbhum",
+   "Infected": 799,
+   "Recovered": 509,
+   "Vaccinated": 178
+ },
+ {
+   "State": "West Bengal",
+   "District": "Cooch Behar",
+   "Infected": 1137,
+   "Recovered": 740,
+   "Vaccinated": 85
+ },
+ {
+   "State": "West Bengal",
+   "District": "Dakshin Dinajpur",
+   "Infected": 1649,
+   "Recovered": 1109,
+   "Vaccinated": 281
+ },
+ {
+   "State": "West Bengal",
+   "District": "Darjeeling",
+   "Infected": 2750,
+   "Recovered": 1918,
+   "Vaccinated": 158
+ },
+ {
+   "State": "West Bengal",
+   "District": "Hooghly",
+   "Infected": 4064,
+   "Recovered": 2989,
+   "Vaccinated": 159
+ },
+ {
+   "State": "West Bengal",
+   "District": "Howrah",
+   "Infected": 9120,
+   "Recovered": 6837,
+   "Vaccinated": 220
+ },
+ {
+   "State": "West Bengal",
+   "District": "Jalpaiguri",
+   "Infected": 1641,
+   "Recovered": 1199,
+   "Vaccinated": 87
+ },
+ {
+   "State": "West Bengal",
+   "District": "Jhargram",
+   "Infected": 55,
+   "Recovered": 31,
+   "Vaccinated": 281
+ },
+ {
+   "State": "West Bengal",
+   "District": "Kalimpong",
+   "Infected": 111,
+   "Recovered": 81,
+   "Vaccinated": 411
+ },
+ {
+   "State": "West Bengal",
+   "District": "Kolkata",
+   "Infected": 25882,
+   "Recovered": 18109,
+   "Vaccinated": 123
+ },
+ {
+   "State": "West Bengal",
+   "District": "Malda",
+   "Infected": 2802,
+   "Recovered": 2200,
+   "Vaccinated": 337
+ },
+ {
+   "State": "West Bengal",
+   "District": "Murshidabad",
+   "Infected": 1097,
+   "Recovered": 737,
+   "Vaccinated": 243
+ },
+ {
+   "State": "West Bengal",
+   "District": "Nadia",
+   "Infected": 1379,
+   "Recovered": 909,
+   "Vaccinated": 171
+ },
+ {
+   "State": "West Bengal",
+   "District": "North 24 Parganas",
+   "Infected": 18741,
+   "Recovered": 12789,
+   "Vaccinated": 446
+ },
+ {
+   "State": "West Bengal",
+   "District": "Other State",
+   "Infected": 66,
+   "Recovered": 63,
+   "Vaccinated": 257
+ },
+ {
+   "State": "West Bengal",
+   "District": "Paschim Bardhaman",
+   "Infected": 1426,
+   "Recovered": 726,
+   "Vaccinated": 56
+ },
+ {
+   "State": "West Bengal",
+   "District": "Paschim Medinipur",
+   "Infected": 1353,
+   "Recovered": 1079,
+   "Vaccinated": 464
+ },
+ {
+   "State": "West Bengal",
+   "District": "Purba Bardhaman",
+   "Infected": 1274,
+   "Recovered": 755,
+   "Vaccinated": 266
+ },
+ {
+   "State": "West Bengal",
+   "District": "Purba Medinipur",
+   "Infected": 2124,
+   "Recovered": 1353,
+   "Vaccinated": 128
+ },
+ {
+   "State": "West Bengal",
+   "District": "Purulia",
+   "Infected": 301,
+   "Recovered": 213,
+   "Vaccinated": 418
+ },
+ {
+   "State": "West Bengal",
+   "District": "South 24 Parganas",
+   "Infected": 6254,
+   "Recovered": 4605,
+   "Vaccinated": 434
+ },
+ {
+   "State": "West Bengal",
+   "District": "Uttar Dinajpur",
+   "Infected": 1277,
+   "Recovered": 1086,
+   "Vaccinated": 294
+ },
+ {
+   "State": "Andaman and Nicobar Islands",
+   "District": "Unknown",
+   "Infected": 1071,
+   "Recovered": 322,
+   "Vaccinated": 80
+ },
+ {
+   "State": "Andhra Pradesh",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 382
+ },
+ {
+   "State": "Arunachal Pradesh",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 393
+ },
+ {
+   "State": "Assam",
+   "District": "Unknown",
+   "Infected": 7325,
+   "Recovered": 5341,
+   "Vaccinated": 164
+ },
+ {
+   "State": "Bihar",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 286
+ },
+ {
+   "State": "Chandigarh",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 421
+ },
+ {
+   "State": "Chhattisgarh",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 144
+ },
+ {
+   "State": "Dadra and Nagar Haveli and Daman and Diu",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 482
+ },
+ {
+   "State": "Delhi",
+   "District": "Unknown",
+   "Infected": 140743,
+   "Recovered": 127124,
+   "Vaccinated": 226
+ },
+ {
+   "State": "Goa",
+   "District": "Unknown",
+   "Infected": 3941,
+   "Recovered": 3941,
+   "Vaccinated": 368
+ },
+ {
+   "State": "Gujarat",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 377
+ },
+ {
+   "State": "Haryana",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 232
+ },
+ {
+   "State": "Himachal Pradesh",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 421
+ },
+ {
+   "State": "Jammu and Kashmir",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 73
+ },
+ {
+   "State": "Jharkhand",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 194
+ },
+ {
+   "State": "Karnataka",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 77
+ },
+ {
+   "State": "Kerala",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 381
+ },
+ {
+   "State": "Ladakh",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 416
+ },
+ {
+   "State": "Lakshadweep",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 474
+ },
+ {
+   "State": "Madhya Pradesh",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 498
+ },
+ {
+   "State": "Maharashtra",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 278
+ },
+ {
+   "State": "Manipur",
+   "District": "Unknown",
+   "Infected": 28,
+   "Recovered": 1512,
+   "Vaccinated": 303
+ },
+ {
+   "State": "Meghalaya",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 106
+ },
+ {
+   "State": "Mizoram",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 336
+ },
+ {
+   "State": "Nagaland",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 227
+ },
+ {
+   "State": "Odisha",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 470
+ },
+ {
+   "State": "Puducherry",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 297
+ },
+ {
+   "State": "Punjab",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 467
+ },
+ {
+   "State": "Rajasthan",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 288
+ },
+ {
+   "State": "Sikkim",
+   "District": "Unknown",
+   "Infected": 29,
+   "Recovered": 50,
+   "Vaccinated": 270
+ },
+ {
+   "State": "Tamil Nadu",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 421
+ },
+ {
+   "State": "Telangana",
+   "District": "Unknown",
+   "Infected": 457,
+   "Recovered": 51552,
+   "Vaccinated": 349
+ },
+ {
+   "State": "Tripura",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 420
+ },
+ {
+   "State": "Uttar Pradesh",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 468
+ },
+ {
+   "State": "Uttarakhand",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 176
+ },
+ {
+   "State": "West Bengal",
+   "District": "Unknown",
+   "Infected": 0,
+   "Recovered": 0,
+   "Vaccinated": 216
+ }
+]
